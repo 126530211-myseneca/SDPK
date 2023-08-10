@@ -1,0 +1,1162 @@
+﻿{"dsn":"Company","oem":"Item","identifier":"Calories","index":"Trans Fat","lat":"Sodium","long":"Sugars"}
+{"dsn":"McDonald’s","oem":"Hamburger","identifier":250,"index":0.5,"lat":520,"long":6}
+{"dsn":"McDonald’s","oem":"Cheeseburger","identifier":300,"index":0.5,"lat":750,"long":6}
+{"dsn":"McDonald’s","oem":"Double Cheeseburger","identifier":440,"index":1.5,"lat":1150,"long":7}
+{"dsn":"McDonald’s","oem":"McDouble","identifier":390,"index":1,"lat":920,"long":7}
+{"dsn":"McDonald’s","oem":"Quarter Pounder® with Cheese","identifier":510,"index":1.5,"lat":1190,"long":9}
+{"dsn":"McDonald’s","oem":"Double Quarter Pounder® with Cheese","identifier":740,"index":2.5,"lat":1380,"long":9}
+{"dsn":"McDonald’s","oem":"Big Mac®","identifier":540,"index":1.5,"lat":1040,"long":9}
+{"dsn":"McDonald’s","oem":"Big N’ Tasty®","identifier":460,"index":1.5,"lat":720,"long":8}
+{"dsn":"McDonald’s","oem":"Big N’ Tasty® with Cheese","identifier":510,"index":1.5,"lat":960,"long":8}
+{"dsn":"McDonald’s","oem":"Angus Bacon & Cheese","identifier":790,"index":2,"lat":2070,"long":13}
+{"dsn":"McDonald’s","oem":"Angus Deluxe","identifier":750,"index":2,"lat":1700,"long":10}
+{"dsn":"McDonald’s","oem":"Angus Mushroom & Swiss","identifier":770,"index":2,"lat":1170,"long":8}
+{"dsn":"McDonald’s","oem":"Filet-O-Fish®","identifier":380,"index":0,"lat":640,"long":5}
+{"dsn":"McDonald’s","oem":"McChicken ®","identifier":360,"index":0,"lat":830,"long":5}
+{"dsn":"McDonald’s","oem":"McRib ®","identifier":500,"index":0,"lat":980,"long":11}
+{"dsn":"McDonald’s","oem":"Premium Grilled Chicken Classic Sandwich","identifier":360,"index":0,"lat":820,"long":8}
+{"dsn":"McDonald’s","oem":"Premium Crispy Chicken Classic Sandwich","identifier":510,"index":0,"lat":990,"long":10}
+{"dsn":"McDonald’s","oem":"Premium Grilled Chicken Club Sandwich","identifier":460,"index":0,"lat":1040,"long":9}
+{"dsn":"McDonald’s","oem":"Premium Crispy Chicken Club Sandwich","identifier":620,"index":0,"lat":1200,"long":11}
+{"dsn":"McDonald’s","oem":"Premium Grilled Chicken Ranch BLT Sandwich","identifier":380,"index":0,"lat":1000,"long":9}
+{"dsn":"McDonald’s","oem":"Premium Crispy Chicken Ranch BLT Sandwich","identifier":540,"index":0,"lat":1160,"long":11}
+{"dsn":"McDonald’s","oem":"Southern Style Crispy Chicken Sandwich","identifier":400,"index":0,"lat":1030,"long":6}
+{"dsn":"McDonald’s","oem":"Ranch Snack Wrap® (Crispy)","identifier":340,"index":0,"lat":810,"long":2}
+{"dsn":"McDonald’s","oem":"Ranch Snack Wrap® (Grilled)","identifier":270,"index":0,"lat":830,"long":2}
+{"dsn":"McDonald’s","oem":"Honey Mustard Snack Wrap® (Crispy)","identifier":330,"index":0,"lat":780,"long":4}
+{"dsn":"McDonald’s","oem":"Honey Mustard Snack Wrap® (Grilled)","identifier":260,"index":0,"lat":800,"long":4}
+{"dsn":"McDonald’s","oem":"Chipotle BBQ Snack Wrap® (Crispy)","identifier":330,"index":0,"lat":810,"long":4}
+{"dsn":"McDonald’s","oem":"Chipotle BBQ Snack Wrap® (Grilled)","identifier":260,"index":0,"lat":830,"long":5}
+{"dsn":"McDonald’s","oem":"Angus Bacon & Cheese Snack Wrap","identifier":390,"index":1,"lat":1080,"long":4}
+{"dsn":"McDonald’s","oem":"Angus Chipotle BBQ Bacon","identifier":800,"index":2,"lat":2020,"long":16}
+{"dsn":"McDonald’s","oem":"Angus Chipotle BBQ Bacon Snack Wrap","identifier":400,"index":1,"lat":1060,"long":6}
+{"dsn":"McDonald’s","oem":"Angus Deluxe Snack Wrap","identifier":410,"index":1.5,"lat":990,"long":3}
+{"dsn":"McDonald’s","oem":"Angus Mushroom & Swiss Snack Wrap","identifier":430,"index":1.5,"lat":730,"long":2}
+{"dsn":"McDonald’s","oem":"Mac Snack Wrap","identifier":330,"index":1,"lat":690,"long":3}
+{"dsn":"McDonald’s","oem":"Small French Fries","identifier":230,"index":0,"lat":160,"long":0}
+{"dsn":"McDonald’s","oem":"Medium French Fries","identifier":380,"index":0,"lat":270,"long":0}
+{"dsn":"McDonald’s","oem":"Large French Fries","identifier":500,"index":0,"lat":350,"long":0}
+{"dsn":"McDonald’s","oem":"Ketchup Packet","identifier":15,"index":0,"lat":110,"long":2}
+{"dsn":"McDonald’s","oem":"Salt Packet","identifier":0,"index":0,"lat":270,"long":0}
+{"dsn":"McDonald’s","oem":"Chicken McNuggets® (4 piece)","identifier":190,"index":0,"lat":360,"long":0}
+{"dsn":"McDonald’s","oem":"Chicken McNuggets® (6 piece)","identifier":280,"index":0,"lat":540,"long":0}
+{"dsn":"McDonald’s","oem":"Chicken McNuggets® (10 piece)","identifier":470,"index":0,"lat":900,"long":0}
+{"dsn":"McDonald’s","oem":"Barbeque Sauce","identifier":50,"index":0,"lat":260,"long":10}
+{"dsn":"McDonald’s","oem":"Honey","identifier":50,"index":0,"lat":0,"long":11}
+{"dsn":"McDonald’s","oem":"Hot Mustard Sauce","identifier":60,"index":0,"lat":250,"long":6}
+{"dsn":"McDonald’s","oem":"Sweet ‘N Sour Sauce","identifier":50,"index":0,"lat":150,"long":10}
+{"dsn":"McDonald’s","oem":"Chicken Selects® Premium Breast Strips (3 pc)","identifier":400,"index":0,"lat":1010,"long":0}
+{"dsn":"McDonald’s","oem":"Chicken Selects® Premium Breast Strips (5 pc)","identifier":660,"index":0,"lat":1680,"long":0}
+{"dsn":"McDonald’s","oem":"Spicy Buffalo Sauce","identifier":60,"index":0,"lat":800,"long":0}
+{"dsn":"McDonald’s","oem":"Creamy Ranch Sauce","identifier":170,"index":0,"lat":270,"long":1}
+{"dsn":"McDonald’s","oem":"Tangy Honey Mustard Sauce","identifier":60,"index":0,"lat":140,"long":8}
+{"dsn":"McDonald’s","oem":"Southwestern Chipotle Barbeque Sauce","identifier":60,"index":0,"lat":210,"long":11}
+{"dsn":"McDonald’s","oem":"Premium Southwest Salad with Grilled Chicken","identifier":320,"index":0,"lat":960,"long":11}
+{"dsn":"McDonald’s","oem":"Premium Southwest Salad with Crispy Chicken","identifier":430,"index":0,"lat":920,"long":12}
+{"dsn":"McDonald’s","oem":"Premium Southwest Salad (without chicken)","identifier":140,"index":0,"lat":150,"long":6}
+{"dsn":"McDonald’s","oem":"Premium Bacon Ranch Salad with Grilled Chicken","identifier":260,"index":0,"lat":1010,"long":5}
+{"dsn":"McDonald’s","oem":"Premium Bacon Ranch Salad with Crispy Chicken","identifier":370,"index":0,"lat":970,"long":6}
+{"dsn":"McDonald’s","oem":"Premium Bacon Ranch Salad (without chicken)","identifier":140,"index":0,"lat":300,"long":4}
+{"dsn":"McDonald’s","oem":"Premium Caesar Salad with Grilled Chicken","identifier":220,"index":0,"lat":890,"long":5}
+{"dsn":"McDonald’s","oem":"Premium Caesar Salad with Crispy Chicken","identifier":330,"index":0,"lat":840,"long":6}
+{"dsn":"McDonald’s","oem":"Premium Caesar Salad (without chicken)","identifier":90,"index":0,"lat":180,"long":4}
+{"dsn":"McDonald’s","oem":"Side Salad","identifier":20,"index":0,"lat":10,"long":2}
+{"dsn":"McDonald’s","oem":"Butter Garlic Croutons","identifier":60,"index":0,"lat":140,"long":0}
+{"dsn":"McDonald’s","oem":"Snack Size Fruit & Walnut Salad","identifier":210,"index":0,"lat":60,"long":25}
+{"dsn":"McDonald’s","oem":"Salad Dressings","identifier":"","index":"","lat":"","long":""}
+{"dsn":"McDonald’s","oem":"Newman’s Own® Creamy Southwest Dressing","identifier":100,"index":0,"lat":340,"long":3}
+{"dsn":"McDonald’s","oem":"Newman’s Own® Creamy Caesar Dressing","identifier":190,"index":0,"lat":500,"long":2}
+{"dsn":"McDonald’s","oem":"Newman’s Own® Low Fat Balsamic Vinaigrette","identifier":40,"index":0,"lat":730,"long":3}
+{"dsn":"McDonald’s","oem":"Newman’s Own® Low Fat Family Recipe Italian Dressing","identifier":60,"index":0,"lat":730,"long":1}
+{"dsn":"McDonald’s","oem":"Newman’s Own® Ranch Dressing","identifier":170,"index":0,"lat":530,"long":4}
+{"dsn":"McDonald’s","oem":"Egg McMuffin®","identifier":300,"index":0,"lat":820,"long":3}
+{"dsn":"McDonald’s","oem":"Sausage McMuffin®","identifier":370,"index":0,"lat":850,"long":2}
+{"dsn":"McDonald’s","oem":"Sausage McMuffin® with Egg","identifier":450,"index":0,"lat":920,"long":2}
+{"dsn":"McDonald’s","oem":"English Muffin","identifier":160,"index":0,"lat":280,"long":2}
+{"dsn":"McDonald’s","oem":"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)","identifier":420,"index":0,"lat":1160,"long":3}
+{"dsn":"McDonald’s","oem":"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)","identifier":480,"index":0,"lat":1270,"long":4}
+{"dsn":"McDonald’s","oem":"Sausage Biscuit with Egg (Regular Size Biscuit)","identifier":510,"index":0,"lat":1170,"long":2}
+{"dsn":"McDonald’s","oem":"Sausage Biscuit with Egg (Large Size Biscuit)","identifier":570,"index":0,"lat":1280,"long":3}
+{"dsn":"McDonald’s","oem":"Sausage Biscuit (Regular Size Biscuit)","identifier":430,"index":0,"lat":1080,"long":2}
+{"dsn":"McDonald’s","oem":"Sausage Biscuit (Large Size Biscuit)","identifier":480,"index":0,"lat":1190,"long":3}
+{"dsn":"McDonald’s","oem":"Southern Style Chicken Biscuit (Regular Size Biscuit)","identifier":410,"index":0,"lat":1180,"long":3}
+{"dsn":"McDonald’s","oem":"Southern Style Chicken Biscuit (Large Size Biscuit)","identifier":470,"index":0,"lat":1290,"long":4}
+{"dsn":"McDonald’s","oem":"Steak, Egg & Cheese Bagel","identifier":660,"index":1,"lat":1580,"long":7}
+{"dsn":"McDonald’s","oem":"Bacon, Egg & Cheese McGriddles®","identifier":420,"index":0,"lat":1110,"long":15}
+{"dsn":"McDonald’s","oem":"Sausage, Egg & Cheese McGriddles®","identifier":560,"index":0,"lat":1360,"long":15}
+{"dsn":"McDonald’s","oem":"Sausage McGriddles®","identifier":420,"index":0,"lat":1030,"long":15}
+{"dsn":"McDonald’s","oem":"Big Breakfast® (Regular Size Biscuit)","identifier":740,"index":0,"lat":1560,"long":3}
+{"dsn":"McDonald’s","oem":"Big Breakfast® (Large Size Biscuit)","identifier":800,"index":0,"lat":1680,"long":3}
+{"dsn":"McDonald’s","oem":"Big Breakfast with Hotcakes (Regular Size Biscuit)","identifier":1090,"index":0,"lat":2150,"long":17}
+{"dsn":"McDonald’s","oem":"Big Breakfast with Hotcakes (Large Size Biscuit)","identifier":1150,"index":0,"lat":2260,"long":17}
+{"dsn":"McDonald’s","oem":"Sausage Burrito","identifier":300,"index":0,"lat":830,"long":2}
+{"dsn":"McDonald’s","oem":"McSkillet™ Burrito with Sausage","identifier":610,"index":0.5,"lat":1390,"long":4}
+{"dsn":"McDonald’s","oem":"Hotcakes","identifier":350,"index":0,"lat":590,"long":14}
+{"dsn":"McDonald’s","oem":"Hotcakes and Sausage","identifier":520,"index":0,"lat":930,"long":14}
+{"dsn":"McDonald’s","oem":"Hotcake Syrup","identifier":180,"index":0,"lat":20,"long":32}
+{"dsn":"McDonald’s","oem":"Whipped Margarine (1 pat)","identifier":40,"index":0,"lat":55,"long":0}
+{"dsn":"McDonald’s","oem":"Hash Brown","identifier":150,"index":0,"lat":310,"long":0}
+{"dsn":"McDonald’s","oem":"Grape Jam","identifier":35,"index":0,"lat":0,"long":9}
+{"dsn":"McDonald’s","oem":"Strawberry Preserves","identifier":35,"index":0,"lat":0,"long":9}
+{"dsn":"McDonald’s","oem":"Bacon, Egg & Cheese Bagel","identifier":560,"index":0.5,"lat":1300,"long":7}
+{"dsn":"McDonald’s","oem":"Fruit & Maple Oatmeal","identifier":290,"index":0,"lat":160,"long":32}
+{"dsn":"McDonald’s","oem":"Fruit & Maple Oatmeal without Brown Sugar","identifier":260,"index":0,"lat":115,"long":18}
+{"dsn":"McDonald’s","oem":"Hamburger Happy Meal","identifier":475,"index":0,"lat":690,"long":20}
+{"dsn":"McDonald’s","oem":"4 Piece Chicken McNuggets Happy Meal","identifier":395,"index":0,"lat":510,"long":14}
+{"dsn":"McDonald’s","oem":"6 Piece Chicken McNuggets® Happy Meal","identifier":475,"index":0,"lat":680,"long":14}
+{"dsn":"McDonald’s","oem":"Fruit ‘n Yogurt Parfait (7 oz)","identifier":160,"index":0,"lat":85,"long":21}
+{"dsn":"McDonald’s","oem":"Low Fat Caramel Dip","identifier":70,"index":0,"lat":35,"long":9}
+{"dsn":"McDonald’s","oem":"Vanilla Reduced Fat Ice Cream Cone","identifier":150,"index":0,"lat":60,"long":18}
+{"dsn":"McDonald’s","oem":"Kiddie Cone","identifier":45,"index":0,"lat":20,"long":6}
+{"dsn":"McDonald’s","oem":"Strawberry Sundae","identifier":280,"index":0,"lat":95,"long":45}
+{"dsn":"McDonald’s","oem":"Hot Caramel Sundae","identifier":340,"index":0,"lat":160,"long":44}
+{"dsn":"McDonald’s","oem":"Hot Fudge Sundae","identifier":330,"index":0,"lat":180,"long":48}
+{"dsn":"McDonald’s","oem":"Peanuts (for Sundaes)","identifier":45,"index":0,"lat":0,"long":0}
+{"dsn":"McDonald’s","oem":"McFlurry® with M&M’S® Candies (12 fl oz cup)","identifier":710,"index":1,"lat":220,"long":97}
+{"dsn":"McDonald’s","oem":"McFlurry® with OREO® Cookies (12 fl oz cup)","identifier":580,"index":1,"lat":320,"long":73}
+{"dsn":"McDonald’s","oem":"Baked Hot Apple Pie","identifier":250,"index":0,"lat":170,"long":13}
+{"dsn":"McDonald’s","oem":"Cinnamon Melts","identifier":460,"index":0,"lat":370,"long":32}
+{"dsn":"McDonald’s","oem":"McDonaldland® Cookies","identifier":260,"index":0,"lat":300,"long":13}
+{"dsn":"McDonald’s","oem":"Chocolate Chip Cookie","identifier":160,"index":0,"lat":90,"long":15}
+{"dsn":"McDonald’s","oem":"Oatmeal Raisin Cookie","identifier":150,"index":0,"lat":135,"long":13}
+{"dsn":"McDonald’s","oem":"Sugar Cookie","identifier":160,"index":0,"lat":120,"long":11}
+{"dsn":"McDonald’s","oem":"Apple Dippers with Low Fat Caramel Dip","identifier":100,"index":0,"lat":35,"long":15}
+{"dsn":"McDonald’s","oem":"Chocolate McCafé® Shake (12 fl oz cup)","identifier":580,"index":1,"lat":240,"long":77}
+{"dsn":"McDonald’s","oem":"Chocolate McCafé® Shake (16 fl oz cup)","identifier":720,"index":1,"lat":300,"long":98}
+{"dsn":"McDonald’s","oem":"Chocolate McCafé® Shake (22 fl oz cup)","identifier":880,"index":1.5,"lat":370,"long":121}
+{"dsn":"McDonald’s","oem":"Chocolate Triple Thick® Shake (12 fl oz cup)","identifier":440,"index":0.5,"lat":190,"long":63}
+{"dsn":"McDonald’s","oem":"Chocolate Triple Thick® Shake (16 fl oz cup)","identifier":580,"index":1,"lat":250,"long":84}
+{"dsn":"McDonald’s","oem":"Chocolate Triple Thick® Shake (21 fl oz cup)","identifier":770,"index":1,"lat":330,"long":111}
+{"dsn":"McDonald’s","oem":"Chocolate Triple Thick® Shake (32 fl oz cup)","identifier":1160,"index":2,"lat":510,"long":168}
+{"dsn":"McDonald’s","oem":"Snack Size McFlurry® with M&M’S® Candies","identifier":430,"index":0.5,"lat":130,"long":59}
+{"dsn":"McDonald’s","oem":"Snack Size McFlurry® with OREO® Cookies","identifier":340,"index":0,"lat":200,"long":43}
+{"dsn":"McDonald’s","oem":"Strawberry McCafé® Shake (12 fl oz cup)","identifier":570,"index":1,"lat":170,"long":79}
+{"dsn":"McDonald’s","oem":"Strawberry McCafé® Shake (16 fl oz cup)","identifier":710,"index":1,"lat":210,"long":100}
+{"dsn":"McDonald’s","oem":"Strawberry McCafé® Shake (22 fl oz cup)","identifier":860,"index":1.5,"lat":260,"long":124}
+{"dsn":"McDonald’s","oem":"Strawberry Triple Thick® Shake (12 fl oz cup)","identifier":420,"index":0.5,"lat":130,"long":63}
+{"dsn":"McDonald’s","oem":"Strawberry Triple Thick® Shake (16 fl oz cup)","identifier":560,"index":1,"lat":170,"long":84}
+{"dsn":"McDonald’s","oem":"Strawberry Triple Thick® Shake (21 fl oz cup)","identifier":740,"index":1,"lat":230,"long":111}
+{"dsn":"McDonald’s","oem":"Strawberry Triple Thick® Shake (32 fl oz cup)","identifier":1110,"index":2,"lat":350,"long":168}
+{"dsn":"McDonald’s","oem":"Vanilla McCafé® Shake (12 fl oz cup)","identifier":540,"index":1,"lat":170,"long":64}
+{"dsn":"McDonald’s","oem":"Vanilla McCafé® Shake (16 fl oz cup)","identifier":680,"index":1,"lat":220,"long":82}
+{"dsn":"McDonald’s","oem":"Vanilla McCafé® Shake (22 fl oz cup)","identifier":830,"index":1.5,"lat":270,"long":103}
+{"dsn":"McDonald’s","oem":"Vanilla Triple Thick Shake® (32 fl oz cup)","identifier":1110,"index":2,"lat":370,"long":145}
+{"dsn":"McDonald’s","oem":"Vanilla Triple Thick® Shake (12 fl oz cup)","identifier":420,"index":0.5,"lat":140,"long":54}
+{"dsn":"McDonald’s","oem":"Vanilla Triple Thick® Shake (16 fl oz cup)","identifier":550,"index":1,"lat":190,"long":72}
+{"dsn":"McDonald’s","oem":"Vanilla Triple Thick® Shake (21 fl oz cup)","identifier":740,"index":1,"lat":250,"long":96}
+{"dsn":"McDonald’s","oem":"1% Low Fat Milk Jug","identifier":100,"index":0,"lat":125,"long":12}
+{"dsn":"McDonald’s","oem":"1% Low Fat Chocolate Milk Jug","identifier":170,"index":0,"lat":150,"long":25}
+{"dsn":"McDonald’s","oem":"Minute Maid® 100% Apple Juice Box","identifier":100,"index":0,"lat":15,"long":22}
+{"dsn":"McDonald’s","oem":"Dasani® Water","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"McDonald’s","oem":"Minute Maid® Orange Juice (Small)","identifier":150,"index":0,"lat":0,"long":30}
+{"dsn":"McDonald’s","oem":"Minute Maid® Orange Juice (Medium)","identifier":190,"index":0,"lat":0,"long":39}
+{"dsn":"McDonald’s","oem":"Minute Maid® Orange Juice (Large)","identifier":280,"index":0,"lat":5,"long":58}
+{"dsn":"McDonald’s","oem":"Coca-Cola® Classic (Child)","identifier":110,"index":0,"lat":5,"long":29}
+{"dsn":"McDonald’s","oem":"Coca-Cola® Classic (Small)","identifier":150,"index":0,"lat":10,"long":40}
+{"dsn":"McDonald’s","oem":"Coca-Cola® Classic (Medium)","identifier":210,"index":0,"lat":15,"long":58}
+{"dsn":"McDonald’s","oem":"Coca-Cola® Classic (Large)","identifier":310,"index":0,"lat":20,"long":86}
+{"dsn":"McDonald’s","oem":"Diet Coke® (Child)","identifier":0,"index":0,"lat":15,"long":0}
+{"dsn":"McDonald’s","oem":"Diet Coke® (Small)","identifier":0,"index":0,"lat":20,"long":0}
+{"dsn":"McDonald’s","oem":"Diet Coke® (Medium)","identifier":0,"index":0,"lat":30,"long":0}
+{"dsn":"McDonald’s","oem":"Diet Coke® (Large)","identifier":0,"index":0,"lat":45,"long":0}
+{"dsn":"McDonald’s","oem":"Sprite® (Child)","identifier":110,"index":0,"lat":30,"long":28}
+{"dsn":"McDonald’s","oem":"Sprite® (Small)","identifier":150,"index":0,"lat":40,"long":39}
+{"dsn":"McDonald’s","oem":"Sprite® (Medium)","identifier":210,"index":0,"lat":55,"long":56}
+{"dsn":"McDonald’s","oem":"Sprite® (Large)","identifier":310,"index":0,"lat":80,"long":83}
+{"dsn":"McDonald’s","oem":"Hi-C® Orange Lavaburst (Child)","identifier":120,"index":0,"lat":0,"long":32}
+{"dsn":"McDonald’s","oem":"Hi-C® Orange Lavaburst (Small)","identifier":160,"index":0,"lat":5,"long":44}
+{"dsn":"McDonald’s","oem":"Hi-C® Orange Lavaburst (Medium)","identifier":240,"index":0,"lat":10,"long":64}
+{"dsn":"McDonald’s","oem":"Hi-C® Orange Lavaburst (Large)","identifier":350,"index":0,"lat":10,"long":94}
+{"dsn":"McDonald’s","oem":"POWERade® Mountain Blast (Child)","identifier":70,"index":0,"lat":65,"long":16}
+{"dsn":"McDonald’s","oem":"POWERade® Mountain Blast (Small)","identifier":100,"index":0,"lat":85,"long":21}
+{"dsn":"McDonald’s","oem":"POWERade® Mountain Blast (Medium)","identifier":150,"index":0,"lat":130,"long":31}
+{"dsn":"McDonald’s","oem":"POWERade® Mountain Blast (Large)","identifier":220,"index":0,"lat":190,"long":46}
+{"dsn":"McDonald’s","oem":"Iced Tea (Child)","identifier":0,"index":0,"lat":5,"long":0}
+{"dsn":"McDonald’s","oem":"Iced Tea (Small)","identifier":0,"index":0,"lat":10,"long":0}
+{"dsn":"McDonald’s","oem":"Iced Tea (Medium)","identifier":0,"index":0,"lat":15,"long":0}
+{"dsn":"McDonald’s","oem":"Iced Tea (Large)","identifier":0,"index":0,"lat":20,"long":0}
+{"dsn":"McDonald’s","oem":"Coffee (Small)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"McDonald’s","oem":"Coffee (Large)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"McDonald’s","oem":"Coffee Cream","identifier":20,"index":0,"lat":15,"long":0}
+{"dsn":"McDonald’s","oem":"Sugar Packet","identifier":15,"index":0,"lat":0,"long":4}
+{"dsn":"McDonald’s","oem":"\"EQUAL® 0","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Calorie Sweetener\"","oem":0,"identifier":0,"index":0,"lat":1,"long":""}
+{"dsn":"McDonald’s","oem":"\"SPLENDA® No","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Calorie Sweetener\"","oem":0,"identifier":0,"index":0,"lat":1,"long":""}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Caramel (Small)","identifier":130,"index":0,"lat":80,"long":20}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Caramel (Medium)","identifier":190,"index":0,"lat":115,"long":27}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Caramel (Large)","identifier":270,"index":0,"lat":160,"long":41}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Hazelnut (Small)","identifier":130,"index":0,"lat":40,"long":21}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Hazelnut (Medium)","identifier":190,"index":0,"lat":60,"long":29}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Hazelnut (Large)","identifier":270,"index":0,"lat":85,"long":43}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Regular (Small)","identifier":140,"index":0,"lat":40,"long":22}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Regular (Medium)","identifier":200,"index":0,"lat":60,"long":30}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Regular (Large)","identifier":280,"index":0,"lat":85,"long":45}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Vanilla (Small)","identifier":130,"index":0,"lat":40,"long":21}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Vanilla (Medium)","identifier":190,"index":0,"lat":60,"long":28}
+{"dsn":"McDonald’s","oem":"Iced Coffee– Vanilla (Large)","identifier":270,"index":0,"lat":80,"long":43}
+{"dsn":"McDonald’s","oem":"Iced Coffee with Sugar Free Vanilla Syrup (Small)","identifier":60,"index":0,"lat":70,"long":1}
+{"dsn":"McDonald’s","oem":"Iced Coffee with Sugar Free Vanilla Syrup (Medium)","identifier":90,"index":0,"lat":100,"long":2}
+{"dsn":"McDonald’s","oem":"Iced Coffee with Sugar Free Vanilla Syrup (Large)","identifier":120,"index":0,"lat":140,"long":2}
+{"dsn":"McDonald’s","oem":"Sweet Tea (Child)","identifier":110,"index":0,"lat":5,"long":27}
+{"dsn":"McDonald’s","oem":"Sweet Tea (Large)","identifier":280,"index":0,"lat":15,"long":69}
+{"dsn":"McDonald’s","oem":"Sweet Tea (Medium)","identifier":180,"index":0,"lat":10,"long":45}
+{"dsn":"McDonald’s","oem":"Sweet Tea (Small)","identifier":150,"index":0,"lat":10,"long":36}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino (Small)","identifier":60,"index":0,"lat":85,"long":9}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino (Medium)","identifier":80,"index":0,"lat":110,"long":12}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino (Large)","identifier":90,"index":0,"lat":130,"long":13}
+{"dsn":"McDonald’s","oem":"Nonfat Latte (Small)","identifier":90,"index":0,"lat":115,"long":13}
+{"dsn":"McDonald’s","oem":"Nonfat Latte (Medium)","identifier":110,"index":0,"lat":140,"long":15}
+{"dsn":"McDonald’s","oem":"Nonfat Latte (Large)","identifier":120,"index":0,"lat":160,"long":18}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Cappuccino (Small)","identifier":150,"index":0,"lat":120,"long":32}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Cappuccino (Medium)","identifier":190,"index":0,"lat":150,"long":41}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Cappuccino (Large)","identifier":230,"index":0,"lat":180,"long":49}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Latte (Small)","identifier":170,"index":0,"lat":150,"long":36}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Latte (Medium)","identifier":220,"index":0,"lat":180,"long":45}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Latte (Large)","identifier":260,"index":0,"lat":220,"long":53}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Cappuccino (Small)","identifier":150,"index":0,"lat":70,"long":34}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Cappuccino (Medium)","identifier":190,"index":0,"lat":90,"long":43}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Cappuccino (Large)","identifier":230,"index":0,"lat":100,"long":51}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Latte (Small)","identifier":180,"index":0,"lat":95,"long":37}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Latte (Medium)","identifier":220,"index":0,"lat":115,"long":46}
+{"dsn":"McDonald’s","oem":"Nonfat Hazelnut Latte (Large)","identifier":260,"index":0,"lat":135,"long":55}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Cappuccino (Small)","identifier":150,"index":0,"lat":70,"long":34}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Cappuccino (Medium)","identifier":190,"index":0,"lat":90,"long":42}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Cappuccino (Large)","identifier":230,"index":0,"lat":100,"long":51}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Latte (Small)","identifier":180,"index":0,"lat":95,"long":37}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Latte (Medium)","identifier":220,"index":0,"lat":115,"long":46}
+{"dsn":"McDonald’s","oem":"Nonfat Vanilla Latte (Large)","identifier":260,"index":0,"lat":135,"long":55}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small)","identifier":50,"index":0,"lat":100,"long":8}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium)","identifier":70,"index":0,"lat":130,"long":10}
+{"dsn":"McDonald’s","oem":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large)","identifier":80,"index":0,"lat":150,"long":11}
+{"dsn":"McDonald’s","oem":"Nonfat Latte with Sugar Free Vanilla Syrup (Small)","identifier":80,"index":0,"lat":130,"long":11}
+{"dsn":"McDonald’s","oem":"Nonfat Latte with Sugar Free Vanilla Syrup (Medium)","identifier":90,"index":0,"lat":160,"long":13}
+{"dsn":"McDonald’s","oem":"Nonfat Latte with Sugar Free Vanilla Syrup (Large)","identifier":110,"index":0,"lat":190,"long":15}
+{"dsn":"McDonald’s","oem":"Mocha with Nonfat Milk (Small)","identifier":240,"index":0,"lat":130,"long":34}
+{"dsn":"McDonald’s","oem":"Mocha with Nonfat Milk (Medium)","identifier":280,"index":0,"lat":160,"long":42}
+{"dsn":"McDonald’s","oem":"Mocha with Nonfat Milk (Large)","identifier":330,"index":0,"lat":190,"long":50}
+{"dsn":"McDonald’s","oem":"Hot Chocolate with Nonfat Milk (Small)","identifier":250,"index":0,"lat":140,"long":37}
+{"dsn":"McDonald’s","oem":"Hot Chocolate with Nonfat Milk (Medium)","identifier":310,"index":0,"lat":190,"long":47}
+{"dsn":"McDonald’s","oem":"Hot Chocolate with Nonfat Milk (Large)","identifier":390,"index":0,"lat":250,"long":59}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte (Small)","identifier":50,"index":0,"lat":70,"long":7}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte (Medium)","identifier":60,"index":0,"lat":90,"long":9}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte (Large)","identifier":70,"index":0,"lat":105,"long":11}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Latte (Small)","identifier":140,"index":0,"lat":105,"long":30}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Latte (Medium)","identifier":150,"index":0,"lat":120,"long":32}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Latte (Large)","identifier":190,"index":0,"lat":150,"long":40}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Hazelnut Latte (Small)","identifier":140,"index":0,"lat":50,"long":32}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Hazelnut Latte (Medium)","identifier":150,"index":0,"lat":70,"long":33}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Hazelnut Latte (Large)","identifier":190,"index":0,"lat":80,"long":42}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Vanilla Latte (Small)","identifier":140,"index":0,"lat":50,"long":31}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Vanilla Latte (Medium)","identifier":150,"index":0,"lat":70,"long":33}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Vanilla Latte (Large)","identifier":190,"index":0,"lat":85,"long":41}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small)","identifier":40,"index":0,"lat":85,"long":5}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium)","identifier":50,"index":0,"lat":100,"long":6}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large)","identifier":60,"index":0,"lat":130,"long":8}
+{"dsn":"McDonald’s","oem":"Iced Mocha with Nonfat Milk (Medium)","identifier":270,"index":0,"lat":140,"long":35}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Mocha (Large)","identifier":300,"index":0,"lat":230,"long":45}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Mocha (Medium)","identifier":240,"index":0,"lat":190,"long":34}
+{"dsn":"McDonald’s","oem":"Iced Nonfat Caramel Mocha (Small)","identifier":200,"index":0,"lat":140,"long":26}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Mocha (Large)","identifier":280,"index":0,"lat":260,"long":46}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Mocha (Medium)","identifier":240,"index":0,"lat":200,"long":38}
+{"dsn":"McDonald’s","oem":"Nonfat Caramel Mocha (Small)","identifier":200,"index":0,"lat":170,"long":31}
+{"dsn":"McDonald’s","oem":"McCafe Coffees – Whole Milk","identifier":"","index":"","lat":"","long":""}
+{"dsn":"McDonald’s","oem":"Cappuccino (Small)","identifier":120,"index":0,"lat":85,"long":9}
+{"dsn":"McDonald’s","oem":"Cappuccino (Medium)","identifier":140,"index":0,"lat":105,"long":11}
+{"dsn":"McDonald’s","oem":"Cappuccino (Large)","identifier":180,"index":0,"lat":130,"long":13}
+{"dsn":"McDonald’s","oem":"Latte (Small)","identifier":150,"index":0,"lat":105,"long":11}
+{"dsn":"McDonald’s","oem":"Latte (Medium)","identifier":180,"index":0,"lat":130,"long":13}
+{"dsn":"McDonald’s","oem":"Latte (Large)","identifier":210,"index":0,"lat":150,"long":16}
+{"dsn":"McDonald’s","oem":"Caramel Cappuccino (Small)","identifier":200,"index":0,"lat":125,"long":32}
+{"dsn":"McDonald’s","oem":"Caramel Cappuccino (Medium)","identifier":240,"index":0,"lat":150,"long":40}
+{"dsn":"McDonald’s","oem":"Caramel Cappuccino (Large)","identifier":290,"index":0,"lat":190,"long":49}
+{"dsn":"McDonald’s","oem":"Caramel Latte (Small)","identifier":230,"index":0,"lat":140,"long":35}
+{"dsn":"McDonald’s","oem":"Caramel Latte (Medium)","identifier":280,"index":0,"lat":170,"long":43}
+{"dsn":"McDonald’s","oem":"Caramel Latte (Large)","identifier":330,"index":0,"lat":210,"long":51}
+{"dsn":"McDonald’s","oem":"Hazelnut Cappuccino (Small)","identifier":200,"index":0,"lat":70,"long":34}
+{"dsn":"McDonald’s","oem":"Hazelnut Cappuccino (Medium)","identifier":240,"index":0,"lat":85,"long":42}
+{"dsn":"McDonald’s","oem":"Hazelnut Cappuccino (Large)","identifier":290,"index":0,"lat":105,"long":51}
+{"dsn":"McDonald’s","oem":"Hazelnut Latte (Small)","identifier":230,"index":0,"lat":90,"long":36}
+{"dsn":"McDonald’s","oem":"Hazelnut Latte (Medium)","identifier":280,"index":0,"lat":110,"long":45}
+{"dsn":"McDonald’s","oem":"Hazelnut Latte (Large)","identifier":330,"index":0,"lat":130,"long":53}
+{"dsn":"McDonald’s","oem":"Vanilla Cappuccino (Small)","identifier":200,"index":0,"lat":70,"long":34}
+{"dsn":"McDonald’s","oem":"Vanilla Cappuccino (Medium)","identifier":240,"index":0,"lat":85,"long":42}
+{"dsn":"McDonald’s","oem":"Vanilla Cappuccino (Large)","identifier":290,"index":0,"lat":105,"long":51}
+{"dsn":"McDonald’s","oem":"Vanilla Latte (Small)","identifier":230,"index":0,"lat":90,"long":36}
+{"dsn":"McDonald’s","oem":"Vanilla Latte (Medium)","identifier":280,"index":0,"lat":110,"long":44}
+{"dsn":"McDonald’s","oem":"Vanilla Latte (Large)","identifier":330,"index":0,"lat":130,"long":53}
+{"dsn":"McDonald’s","oem":"Cappuccino with Sugar Free Vanilla Syrup (Small)","identifier":100,"index":0,"lat":105,"long":7}
+{"dsn":"McDonald’s","oem":"Cappuccino with Sugar Free Vanilla Syrup (Medium)","identifier":120,"index":0,"lat":130,"long":9}
+{"dsn":"McDonald’s","oem":"Cappuccino with Sugar Free Vanilla Syrup (Large)","identifier":150,"index":0,"lat":160,"long":11}
+{"dsn":"McDonald’s","oem":"Latte with Sugar Free Vanilla Syrup (Small)","identifier":130,"index":0,"lat":125,"long":10}
+{"dsn":"McDonald’s","oem":"Latte with Sugar Free Vanilla Syrup (Medium)","identifier":160,"index":0,"lat":150,"long":11}
+{"dsn":"McDonald’s","oem":"Latte with Sugar Free Vanilla Syrup (Large)","identifier":180,"index":0,"lat":180,"long":13}
+{"dsn":"McDonald’s","oem":"Mocha (Small)","identifier":280,"index":0,"lat":125,"long":33}
+{"dsn":"McDonald’s","oem":"Mocha (Medium)","identifier":330,"index":0,"lat":150,"long":41}
+{"dsn":"McDonald’s","oem":"Mocha (Large)","identifier":400,"index":0.5,"lat":190,"long":49}
+{"dsn":"McDonald’s","oem":"Hot Chocolate (Small)","identifier":300,"index":0,"lat":135,"long":35}
+{"dsn":"McDonald’s","oem":"Hot Chocolate (Medium)","identifier":380,"index":0.5,"lat":170,"long":45}
+{"dsn":"McDonald’s","oem":"Hot Chocolate (Large)","identifier":460,"index":0.5,"lat":220,"long":54}
+{"dsn":"McDonald’s","oem":"Iced Latte (Small)","identifier":80,"index":0,"lat":65,"long":6}
+{"dsn":"McDonald’s","oem":"Iced Latte (Medium)","identifier":100,"index":0,"lat":80,"long":8}
+{"dsn":"McDonald’s","oem":"Iced Latte (Large)","identifier":140,"index":0,"lat":105,"long":10}
+{"dsn":"McDonald’s","oem":"Iced Caramel Latte (Small)","identifier":160,"index":0,"lat":100,"long":29}
+{"dsn":"McDonald’s","oem":"Iced Caramel Latte (Medium)","identifier":180,"index":0,"lat":120,"long":31}
+{"dsn":"McDonald’s","oem":"Iced Caramel Latte (Large)","identifier":230,"index":0,"lat":150,"long":40}
+{"dsn":"McDonald’s","oem":"Iced Hazelnut Latte (Small)","identifier":160,"index":0,"lat":45,"long":31}
+{"dsn":"McDonald’s","oem":"Iced Hazelnut Latte (Medium)","identifier":180,"index":0,"lat":65,"long":33}
+{"dsn":"McDonald’s","oem":"Iced Hazelnut Latte (Large)","identifier":230,"index":0,"lat":85,"long":41}
+{"dsn":"McDonald’s","oem":"Iced Vanilla Latte (Small)","identifier":160,"index":0,"lat":45,"long":31}
+{"dsn":"McDonald’s","oem":"Iced Vanilla Latte (Medium)","identifier":190,"index":0,"lat":70,"long":33}
+{"dsn":"McDonald’s","oem":"Iced Vanilla Latte (Large)","identifier":230,"index":0,"lat":85,"long":41}
+{"dsn":"McDonald’s","oem":"Iced Latte with Sugar Free Vanilla Syrup (Small)","identifier":60,"index":0,"lat":80,"long":4}
+{"dsn":"McDonald’s","oem":"Iced Latte with Sugar Free Vanilla Syrup (Medium)","identifier":90,"index":0,"lat":105,"long":6}
+{"dsn":"McDonald’s","oem":"Iced Latte with Sugar Free Vanilla Syrup (Large)","identifier":110,"index":0,"lat":130,"long":8}
+{"dsn":"McDonald’s","oem":"Iced Mocha (Medium)","identifier":310,"index":0,"lat":140,"long":35}
+{"dsn":"McDonald’s","oem":"Caramel Mocha (Large)","identifier":360,"index":0.5,"lat":220,"long":46}
+{"dsn":"McDonald’s","oem":"Caramel Mocha (Medium)","identifier":290,"index":0,"lat":180,"long":38}
+{"dsn":"McDonald’s","oem":"Caramel Mocha (Small)","identifier":250,"index":0,"lat":150,"long":31}
+{"dsn":"McDonald’s","oem":"Iced Caramel Mocha (Large)","identifier":380,"index":0.5,"lat":210,"long":46}
+{"dsn":"McDonald’s","oem":"Iced Caramel Mocha (Medium)","identifier":300,"index":0,"lat":160,"long":33}
+{"dsn":"McDonald’s","oem":"Iced Caramel Mocha (Small)","identifier":240,"index":0,"lat":130,"long":26}
+{"dsn":"McDonald’s","oem":"Frappe Caramel (Small)","identifier":450,"index":1,"lat":135,"long":57}
+{"dsn":"McDonald’s","oem":"Frappe Caramel (Medium)","identifier":550,"index":1,"lat":160,"long":71}
+{"dsn":"McDonald’s","oem":"Frappe Caramel (Large)","identifier":680,"index":1.5,"lat":200,"long":88}
+{"dsn":"McDonald’s","oem":"Frappe Mocha (Small)","identifier":450,"index":1,"lat":130,"long":56}
+{"dsn":"McDonald’s","oem":"Frappe Mocha (Medium)","identifier":560,"index":1,"lat":160,"long":70}
+{"dsn":"McDonald’s","oem":"Frappe Mocha (Large)","identifier":680,"index":1,"lat":200,"long":87}
+{"dsn":"McDonald’s","oem":"Strawberry Banana Smoothie (Large)","identifier":330,"index":0,"lat":55,"long":70}
+{"dsn":"McDonald’s","oem":"Strawberry Banana Smoothie (Medium)","identifier":260,"index":0,"lat":40,"long":54}
+{"dsn":"McDonald’s","oem":"Strawberry Banana Smoothie (Small)","identifier":210,"index":0,"lat":35,"long":44}
+{"dsn":"McDonald’s","oem":"Wild Berry Smoothie (Large)","identifier":320,"index":0,"lat":45,"long":69}
+{"dsn":"McDonald’s","oem":"Wild Berry Smoothie (Medium)","identifier":260,"index":0,"lat":35,"long":55}
+{"dsn":"McDonald’s","oem":"Wild Berry Smoothie (Small)","identifier":210,"index":0,"lat":30,"long":44}
+{"dsn":"Burger King","oem":"Whopper® Sandwich","identifier":660,"index":1.5,"lat":980,"long":11}
+{"dsn":"Burger King","oem":"Whopper® Sandwich with Cheese","identifier":740,"index":2,"lat":1340,"long":11}
+{"dsn":"Burger King","oem":"Bacon & Cheese Whopper® Sandwich","identifier":790,"index":2,"lat":1560,"long":11}
+{"dsn":"Burger King","oem":"Double Whopper® Sandwich","identifier":900,"index":3,"lat":1050,"long":11}
+{"dsn":"Burger King","oem":"Double Whopper® Sandwich with Cheese","identifier":980,"index":3,"lat":1410,"long":11}
+{"dsn":"Burger King","oem":"Triple Whopper® Sandwich","identifier":1130,"index":4,"lat":1120,"long":11}
+{"dsn":"Burger King","oem":"Triple Whopper® Sandwich with Cheese","identifier":1220,"index":4.5,"lat":1470,"long":11}
+{"dsn":"Burger King","oem":"Whopper JR.® Sandwich","identifier":310,"index":0.5,"lat":390,"long":7}
+{"dsn":"Burger King","oem":"Flame Broiled Burgers","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"Bacon King Sandwich","identifier":1150,"index":3.5,"lat":2150,"long":10}
+{"dsn":"Burger King","oem":"Cheddar Bacon King Sandwich","identifier":1190,"index":3.5,"lat":1930,"long":11}
+{"dsn":"Burger King","oem":"Single Quarter Pound King Sandwich","identifier":580,"index":1.5,"lat":1310,"long":10}
+{"dsn":"Burger King","oem":"Double Quarter Pound King Sandwich","identifier":900,"index":3,"lat":1740,"long":11}
+{"dsn":"Burger King","oem":"Single Stacker King","identifier":700,"index":2,"lat":1360,"long":10}
+{"dsn":"Burger King","oem":"Double Stacker King","identifier":1050,"index":3.5,"lat":1870,"long":11}
+{"dsn":"Burger King","oem":"IMPOSSIBLE Whopper® Sandwich","identifier":630,"index":0,"lat":1080,"long":12}
+{"dsn":"Burger King","oem":"Hamburger","identifier":240,"index":0.5,"lat":380,"long":6}
+{"dsn":"Burger King","oem":"Cheeseburger","identifier":280,"index":0.5,"lat":560,"long":7}
+{"dsn":"Burger King","oem":"Double Hamburger","identifier":350,"index":1,"lat":410,"long":6}
+{"dsn":"Burger King","oem":"Double Cheeseburger","identifier":390,"index":1.5,"lat":590,"long":7}
+{"dsn":"Burger King","oem":"Extra Long Cheeseburger","identifier":630,"index":1.5,"lat":1050,"long":9}
+{"dsn":"Burger King","oem":"Bacon Cheeseburger","identifier":320,"index":0.5,"lat":710,"long":7}
+{"dsn":"Burger King","oem":"Bacon Double Cheeseburger","identifier":420,"index":1.5,"lat":740,"long":7}
+{"dsn":"Burger King","oem":"Crispy Chicken Sandwich","identifier":670,"index":0,"lat":1080,"long":8}
+{"dsn":"Burger King","oem":"Spicy Crispy Chicken Sandwich","identifier":700,"index":0,"lat":1140,"long":8}
+{"dsn":"Burger King","oem":"Original Chicken Sandwich","identifier":660,"index":0,"lat":1170,"long":5}
+{"dsn":"Burger King","oem":"Bacon & Cheese Crispy Chicken Sandwich","identifier":800,"index":1,"lat":1650,"long":8}
+{"dsn":"Burger King","oem":"BBQ Bacon Crispy Chicken Sandwich","identifier":790,"index":0.5,"lat":1630,"long":13}
+{"dsn":"Burger King","oem":"Crispy Chicken Jr.","identifier":450,"index":0,"lat":780,"long":5}
+{"dsn":"Burger King","oem":"Spicy Crispy Chicken Jr.","identifier":390,"index":0,"lat":740,"long":6}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 4pc","identifier":170,"index":0,"lat":310,"long":0}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 6pc","identifier":260,"index":0,"lat":470,"long":0}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 10pc","identifier":430,"index":0,"lat":780,"long":0}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 20pc","identifier":860,"index":0,"lat":1570,"long":1}
+{"dsn":"Burger King","oem":"Spicy Chicken Nuggets- 4pc","identifier":210,"index":0,"lat":570,"long":0}
+{"dsn":"Burger King","oem":"Spicy Chicken Nuggets- 6pc","identifier":320,"index":0,"lat":850,"long":0}
+{"dsn":"Burger King","oem":"Spicy Chicken Nuggets- 10 pc","identifier":530,"index":0,"lat":1420,"long":1}
+{"dsn":"Burger King","oem":"Spicy Chicken Nuggets- 20 pc","identifier":1050,"index":0,"lat":2840,"long":1}
+{"dsn":"Burger King","oem":"Chicken Fries – 9 pc.","identifier":280,"index":0,"lat":850,"long":1}
+{"dsn":"Burger King","oem":"Crispy Taco","identifier":170,"index":0,"lat":410,"long":1}
+{"dsn":"Burger King","oem":"BIG FISH Sandwich","identifier":510,"index":0,"lat":1180,"long":7}
+{"dsn":"Burger King","oem":"Garden Chicken Salad with Crispy Chicken – no dressing","identifier":440,"index":0,"lat":930,"long":4}
+{"dsn":"Burger King","oem":"Club Salad with Crispy Chicken – no dressing","identifier":540,"index":0,"lat":1380,"long":5}
+{"dsn":"Burger King","oem":"Garden Side Salad – w/o dressing","identifier":60,"index":0,"lat":95,"long":2}
+{"dsn":"Burger King","oem":"Ken’s Ranch Dressing","identifier":260,"index":0,"lat":240,"long":2}
+{"dsn":"Burger King","oem":"Ken’s Golden Italian Dressing","identifier":160,"index":0,"lat":380,"long":3}
+{"dsn":"Burger King","oem":"Ken’s Lite Honey Balsamic Vinaigrette","identifier":120,"index":0,"lat":220,"long":11}
+{"dsn":"Burger King","oem":"Buttery Garlic Croutons- Packet","identifier":60,"index":0,"lat":180,"long":1}
+{"dsn":"Burger King","oem":"Onion Rings – value","identifier":150,"index":0,"lat":400,"long":2}
+{"dsn":"Burger King","oem":"Onion Rings – small","identifier":320,"index":0,"lat":840,"long":4}
+{"dsn":"Burger King","oem":"Onion Rings – medium","identifier":410,"index":0,"lat":1080,"long":5}
+{"dsn":"Burger King","oem":"Onion Rings – large","identifier":500,"index":0,"lat":1310,"long":7}
+{"dsn":"Burger King","oem":"French Fries – value (unsalted)","identifier":220,"index":0,"lat":210,"long":1}
+{"dsn":"Burger King","oem":"French Fries – small","identifier":320,"index":0,"lat":300,"long":1}
+{"dsn":"Burger King","oem":"French Fries – medium","identifier":380,"index":0,"lat":360,"long":1}
+{"dsn":"Burger King","oem":"French Fries – large","identifier":430,"index":0,"lat":410,"long":2}
+{"dsn":"Burger King","oem":"Kids Oatmeal","identifier":170,"index":0,"lat":260,"long":12}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 4pc","identifier":170,"index":0,"lat":310,"long":0}
+{"dsn":"Burger King","oem":"Chicken Nuggets- 6pc","identifier":260,"index":0,"lat":470,"long":0}
+{"dsn":"Burger King","oem":"Hamburger","identifier":240,"index":0.5,"lat":380,"long":6}
+{"dsn":"Burger King","oem":"Cheeseburger","identifier":280,"index":0.5,"lat":560,"long":7}
+{"dsn":"Burger King","oem":"Side Items","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"Mott’s® Natural Applesauce","identifier":50,"index":0,"lat":0,"long":11}
+{"dsn":"Burger King","oem":"Beverage","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"Fat FREE Milk (8 fl oz)","identifier":90,"index":0,"lat":125,"long":12}
+{"dsn":"Burger King","oem":"1% Low Fat Chocolate Milk (8 fl oz)","identifier":160,"index":0,"lat":150,"long":25}
+{"dsn":"Burger King","oem":"Capri Sun® 100% Apple Juice (6 fl oz)","identifier":80,"index":0,"lat":25,"long":20}
+{"dsn":"Burger King","oem":"PB&J Jamwich","identifier":300,"index":0,"lat":290,"long":11}
+{"dsn":"Burger King","oem":"Soft Serve Cone","identifier":190,"index":0,"lat":150,"long":24}
+{"dsn":"Burger King","oem":"Dutch Apple Pie","identifier":340,"index":0,"lat":310,"long":25}
+{"dsn":"Burger King","oem":"HERSHEY®’S Sundae Pie","identifier":310,"index":0,"lat":220,"long":22}
+{"dsn":"Burger King","oem":"Pie made with TWIX®","identifier":370,"index":0,"lat":330,"long":30}
+{"dsn":"Burger King","oem":"OREO® Cookie Cheesecake","identifier":350,"index":0,"lat":310,"long":25}
+{"dsn":"Burger King","oem":"Soft Serve Cone","identifier":190,"index":0,"lat":150,"long":24}
+{"dsn":"Burger King","oem":"Soft Serve Cup","identifier":170,"index":0,"lat":150,"long":24}
+{"dsn":"Burger King","oem":"HERSHEY®’s Chocolate Sundae","identifier":260,"index":0,"lat":160,"long":43}
+{"dsn":"Burger King","oem":"Caramel Sundae","identifier":240,"index":0,"lat":210,"long":33}
+{"dsn":"Burger King","oem":"Chocolate Chip Cookies (each)","identifier":160,"index":0,"lat":125,"long":15}
+{"dsn":"Burger King","oem":"CROISSAN’WICH® Egg & Cheese","identifier":340,"index":0,"lat":610,"long":4}
+{"dsn":"Burger King","oem":"CROISSAN’WICH® Sausage, Egg & Cheese","identifier":500,"index":0,"lat":930,"long":4}
+{"dsn":"Burger King","oem":"CROISSAN’WICH® Ham, Egg & Cheese","identifier":370,"index":0,"lat":1030,"long":5}
+{"dsn":"Burger King","oem":"CROISSAN’WICH® Bacon, Egg & Cheese","identifier":370,"index":0,"lat":760,"long":4}
+{"dsn":"Burger King","oem":"Fully Loaded CROISSAN’WICH®","identifier":610,"index":0.5,"lat":1680,"long":5}
+{"dsn":"Burger King","oem":"Double CROISSAN’WICH® with Sausage & Bacon","identifier":580,"index":0.5,"lat":1260,"long":5}
+{"dsn":"Burger King","oem":"Double CROISSAN’WICH® with Sausage","identifier":710,"index":0.5,"lat":1420,"long":5}
+{"dsn":"Burger King","oem":"Double CROISSAN’WICH® with Ham & Sausage","identifier":580,"index":0.5,"lat":1530,"long":5}
+{"dsn":"Burger King","oem":"Fully Loaded Biscuit","identifier":640,"index":0,"lat":2190,"long":4}
+{"dsn":"Burger King","oem":"Ham, Egg, & Cheese Biscuit","identifier":400,"index":0,"lat":1550,"long":3}
+{"dsn":"Burger King","oem":"Sausage, Egg, & Cheese Biscuit","identifier":530,"index":0,"lat":1440,"long":3}
+{"dsn":"Burger King","oem":"Bacon, Egg & Cheese Biscuit","identifier":400,"index":0,"lat":1270,"long":3}
+{"dsn":"Burger King","oem":"Sausage Biscuit","identifier":420,"index":0,"lat":1050,"long":2}
+{"dsn":"Burger King","oem":"Breakfast Burrito Jr.","identifier":370,"index":0,"lat":930,"long":2}
+{"dsn":"Burger King","oem":"EGG-NORMOUS BURRITOΡ","identifier":780,"index":0,"lat":1960,"long":4}
+{"dsn":"Burger King","oem":"BK™ Ultimate Breakfast Platter","identifier":930,"index":0,"lat":2230,"long":40}
+{"dsn":"Burger King","oem":"NY Ultimate Platter (Regional menu item)","identifier":900,"index":0,"lat":1760,"long":31}
+{"dsn":"Burger King","oem":"Pancake and Sausage platter","identifier":610,"index":0,"lat":1010,"long":30}
+{"dsn":"Burger King","oem":"Hash Browns – small","identifier":250,"index":0,"lat":580,"long":0}
+{"dsn":"Burger King","oem":"Hash Browns – medium","identifier":500,"index":0,"lat":1140,"long":0}
+{"dsn":"Burger King","oem":"Hash Browns – large","identifier":670,"index":0,"lat":1530,"long":0}
+{"dsn":"Burger King","oem":"French Toast Sticks (3 piece)","identifier":230,"index":0,"lat":260,"long":8}
+{"dsn":"Burger King","oem":"French Toast Sticks (5 piece)","identifier":380,"index":0,"lat":430,"long":13}
+{"dsn":"Burger King","oem":"Additional Options","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"American Cheese (slice)","identifier":40,"index":0,"lat":180,"long":0}
+{"dsn":"Burger King","oem":"Ketchup (Packet)","identifier":10,"index":0,"lat":125,"long":2}
+{"dsn":"Burger King","oem":"Mayonnaise (Packet)","identifier":80,"index":0,"lat":75,"long":0}
+{"dsn":"Burger King","oem":"Strawberry or Grape Jam (packet)","identifier":30,"index":0,"lat":0,"long":6}
+{"dsn":"Burger King","oem":"Breakfast Syrup (1 oz)","identifier":120,"index":0,"lat":15,"long":18}
+{"dsn":"Burger King","oem":"Barbecue Dipping Sauce (1 oz)","identifier":40,"index":0,"lat":310,"long":10}
+{"dsn":"Burger King","oem":"Ranch Dipping Sauce (1 oz)","identifier":140,"index":0,"lat":85,"long":1}
+{"dsn":"Burger King","oem":"Buffalo Dipping Sauce (1 oz)","identifier":80,"index":0,"lat":360,"long":1}
+{"dsn":"Burger King","oem":"Zesty Onion Ring Dipping Sauce (1 oz)","identifier":150,"index":0,"lat":240,"long":0}
+{"dsn":"Burger King","oem":"Honey Mustard Dipping Sauce (1oz)","identifier":90,"index":0,"lat":180,"long":7}
+{"dsn":"Burger King","oem":"Fat FREE Milk (8 fl oz)","identifier":90,"index":0,"lat":125,"long":12}
+{"dsn":"Burger King","oem":"1% Low Fat Chocolate Milk (8 fl oz)","identifier":160,"index":0,"lat":150,"long":25}
+{"dsn":"Burger King","oem":"Smoothie: Strawberry Banana 16 fl oz","identifier":310,"index":0,"lat":55,"long":50}
+{"dsn":"Burger King","oem":"Oreo® Shake","identifier":720,"index":0.5,"lat":540,"long":98}
+{"dsn":"Burger King","oem":"Chocolate Oreo® Shake","identifier":740,"index":0.5,"lat":680,"long":101}
+{"dsn":"Burger King","oem":"Vanilla Milk Shake","identifier":580,"index":0,"lat":420,"long":85}
+{"dsn":"Burger King","oem":"HERSHEY®’S Chocolate Milk Shake","identifier":610,"index":0,"lat":500,"long":88}
+{"dsn":"Burger King","oem":"Strawberry Milk Shake","identifier":640,"index":0,"lat":440,"long":99}
+{"dsn":"Burger King","oem":"SOFT DRINKS BY CUP SIZE (*no ice)","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"Coca Cola classic®‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":210,"index":0,"lat":50,"long":58}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":270,"index":0,"lat":60,"long":73}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":290,"index":0,"lat":85,"long":105}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":510,"index":0,"lat":115,"long":138}
+{"dsn":"Burger King","oem":"Diet Coke®‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":0,"index":0,"lat":70,"long":0}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":0,"index":0,"lat":85,"long":0}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":0,"index":0,"lat":120,"long":0}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":0,"index":0,"lat":160,"long":0}
+{"dsn":"Burger King","oem":"Sprite®‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":210,"index":0,"lat":95,"long":56}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":260,"index":0,"lat":120,"long":70}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":380,"index":0,"lat":170,"long":102}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":500,"index":0,"lat":230,"long":133}
+{"dsn":"Burger King","oem":"Dr. Pepper®‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":190,"index":0,"lat":60,"long":51}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":240,"index":0,"lat":75,"long":64}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":350,"index":0,"lat":105,"long":93}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":450,"index":0,"lat":140,"long":121}
+{"dsn":"Burger King","oem":"Barq’s® Root Beer‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":240,"index":0,"lat":100,"long":65}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":300,"index":0,"lat":120,"long":81}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":350,"index":0,"lat":180,"long":118}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":450,"index":0,"lat":230,"long":155}
+{"dsn":"Burger King","oem":"Cherry Coke®‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":220,"index":0,"lat":55,"long":61}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":280,"index":0,"lat":70,"long":76}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":410,"index":0,"lat":100,"long":110}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":450,"index":0,"lat":130,"long":145}
+{"dsn":"Burger King","oem":"Fanta® Orange‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":230,"index":0,"lat":60,"long":61}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":280,"index":0,"lat":70,"long":77}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":410,"index":0,"lat":105,"long":111}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":530,"index":0,"lat":135,"long":146}
+{"dsn":"Burger King","oem":"Hi-C® Fruit Punch‡","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":220,"index":0,"lat":75,"long":60}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":280,"index":0,"lat":95,"long":75}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":410,"index":0,"lat":135,"long":109}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":450,"index":0,"lat":180,"long":143}
+{"dsn":"Burger King","oem":"MINUTE MAID® Light Lemonade","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"16 fl oz","identifier":10,"index":0,"lat":60,"long":0}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":10,"index":0,"lat":70,"long":0}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":15,"index":0,"lat":105,"long":0}
+{"dsn":"Burger King","oem":"38 fl oz","identifier":20,"index":0,"lat":135,"long":0}
+{"dsn":"Burger King","oem":"Sweet Tea","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":120,"index":0,"lat":0,"long":35}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":160,"index":0,"lat":0,"long":49}
+{"dsn":"Burger King","oem":"40 fl oz","identifier":240,"index":0,"lat":0,"long":71}
+{"dsn":"Burger King","oem":"Unsweetened Tea","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"20 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"29 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"40 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"Capri Sun® 100% Apple Juice","identifier":80,"index":0,"lat":25,"long":20}
+{"dsn":"Burger King","oem":"Minute Maid® Orange Juice","identifier":140,"index":0,"lat":20,"long":30}
+{"dsn":"Burger King","oem":"Frozen Coke® – 16 oz","identifier":130,"index":0,"lat":50,"long":35}
+{"dsn":"Burger King","oem":"BK® Café","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"Hot Coffees","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"BK® Café Coffee- 12 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"BK® Café Coffee- 16 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"BK® Café Coffee- 20 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"BK® Café Decaf Coffee- 12 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"BK® Café Decaf Coffee- 16 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"BK® Café Decaf Coffee- 20 fl oz","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Burger King","oem":"Iced Coffees","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"BK® Café Iced Vanilla Coffee- 12 fl oz","identifier":150,"index":0,"lat":30,"long":21}
+{"dsn":"Burger King","oem":"BK® Café Iced Vanilla Coffee- 16 fl oz","identifier":200,"index":0,"lat":40,"long":27}
+{"dsn":"Burger King","oem":"BK® Café Iced Vanilla Coffee- 20 fl oz","identifier":260,"index":0,"lat":50,"long":34}
+{"dsn":"Burger King","oem":"BK® Café Iced Mocha Coffee- 12 fl oz","identifier":180,"index":0,"lat":40,"long":25}
+{"dsn":"Burger King","oem":"BK® Café Iced Mocha Coffee- 16 fl oz","identifier":240,"index":0,"lat":55,"long":32}
+{"dsn":"Burger King","oem":"BK® Café Iced Mocha Coffee- 20 fl oz","identifier":300,"index":0,"lat":70,"long":41}
+{"dsn":"Burger King","oem":"Frappes","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Burger King","oem":"BK® Café Mocha Frappe- 12 fl oz","identifier":300,"index":0,"lat":200,"long":41}
+{"dsn":"Burger King","oem":"BK® Café Mocha Frappe- 16 fl oz","identifier":400,"index":0,"lat":270,"long":58}
+{"dsn":"Burger King","oem":"BK® Café Mocha Frappe- 20 fl oz","identifier":510,"index":0,"lat":350,"long":71}
+{"dsn":"Burger King","oem":"BK® Café Caramel Frappe- 12 fl oz","identifier":300,"index":0,"lat":210,"long":41}
+{"dsn":"Burger King","oem":"BK® Café Caramel Frappe- 16 fl oz","identifier":400,"index":0,"lat":280,"long":56}
+{"dsn":"Burger King","oem":"BK® Café Caramel Frappe- 20 fl oz","identifier":500,"index":0,"lat":350,"long":71}
+{"dsn":"Wendy’s","oem":"Baconator","identifier":950,"index":205,"lat":40,"long":59}
+{"dsn":"Wendy’s","oem":"Dave’s Double","identifier":810,"index":175,"lat":41,"long":49}
+{"dsn":"Wendy’s","oem":"Dave’s Single","identifier":570,"index":100,"lat":40,"long":30}
+{"dsn":"Wendy’s","oem":"Dave’s Triple","identifier":1090,"index":260,"lat":43,"long":71}
+{"dsn":"Wendy’s","oem":"Double Stack","identifier":390,"index":90,"lat":26,"long":25}
+{"dsn":"Wendy’s","oem":"Jr. Bacon Cheeseburger","identifier":380,"index":65,"lat":25,"long":19}
+{"dsn":"Wendy’s","oem":"Jr. Cheeseburger","identifier":280,"index":50,"lat":26,"long":16}
+{"dsn":"Wendy’s","oem":"Jr. Cheeseburger Deluxe","identifier":340,"index":55,"lat":27,"long":16}
+{"dsn":"Wendy’s","oem":"Son of Baconator","identifier":630,"index":125,"lat":37,"long":34}
+{"dsn":"Wendy’s","oem":"3 Piece Chicken Tenders","identifier":330,"index":75,"lat":22,"long":24}
+{"dsn":"Wendy’s","oem":"4 Piece Chicken Nuggets","identifier":170,"index":35,"lat":10,"long":9}
+{"dsn":"Wendy’s","oem":"4 Piece Chicken Tenders","identifier":430,"index":100,"lat":29,"long":32}
+{"dsn":"Wendy’s","oem":"6 Picece Chicken Nuggets","identifier":250,"index":50,"lat":14,"long":13}
+{"dsn":"Wendy’s","oem":"6 Piece Chicken Tenders","identifier":650,"index":150,"lat":43,"long":48}
+{"dsn":"Wendy’s","oem":"10 Piece Chicken Nuggets","identifier":420,"index":80,"lat":24,"long":22}
+{"dsn":"Wendy’s","oem":"Crispy Chicken BLT","identifier":420,"index":50,"lat":35,"long":20}
+{"dsn":"Wendy’s","oem":"Crispy Chicken Sandwich","identifier":330,"index":30,"lat":33,"long":14}
+{"dsn":"Wendy’s","oem":"Grilled Asiago Ranch Club","identifier":530,"index":120,"lat":36,"long":43}
+{"dsn":"Wendy’s","oem":"Grilled Chicken Sandwich","identifier":370,"index":90,"lat":38,"long":34}
+{"dsn":"Wendy’s","oem":"Grilled Chicken Wrap","identifier":270,"index":55,"lat":24,"long":20}
+{"dsn":"Wendy’s","oem":"Homestyle Asiago Ranch Chicken Club","identifier":660,"index":100,"lat":52,"long":38}
+{"dsn":"Wendy’s","oem":"Homestyle Chicken Sandwich","identifier":510,"index":70,"lat":51,"long":28}
+{"dsn":"Wendy’s","oem":"S’Awesome Sauce","identifier":120,"index":0,"lat":4,"long":1}
+{"dsn":"Wendy’s","oem":"Spicy Asiago Ranch Club","identifier":670,"index":100,"lat":55,"long":38}
+{"dsn":"Wendy’s","oem":"Spicy Chicken Sandwich","identifier":510,"index":65,"lat":54,"long":29}
+{"dsn":"Wendy’s","oem":"Spicy Chicken Wrap","identifier":370,"index":50,"lat":30,"long":18}
+{"dsn":"Wendy’s","oem":"Apple Pecan Chicken Salad, Full Size","identifier":560,"index":115,"lat":52,"long":38}
+{"dsn":"Wendy’s","oem":"Apple Pecan Chicken Salad, Half Size","identifier":340,"index":55,"lat":29,"long":20}
+{"dsn":"Wendy’s","oem":"Berry Burst Chicken Salad, Full Size","identifier":460,"index":105,"lat":41,"long":41}
+{"dsn":"Wendy’s","oem":"Berry Burst Chicken Salad, Half Size","identifier":290,"index":50,"lat":23,"long":23}
+{"dsn":"Wendy’s","oem":"Caesar Side Salad","identifier":240,"index":30,"lat":19,"long":8}
+{"dsn":"Wendy’s","oem":"Garden Side Salad","identifier":250,"index":20,"lat":18,"long":7}
+{"dsn":"Wendy’s","oem":"Southwest Avocado Chicken Salad, Full Size","identifier":600,"index":135,"lat":18,"long":42}
+{"dsn":"Wendy’s","oem":"Southwest Avocado Chicken Salad, Half Size","identifier":300,"index":70,"lat":10,"long":21}
+{"dsn":"Wendy’s","oem":"Spicy Caesar Chicken Salad, Full Size","identifier":720,"index":150,"lat":44,"long":42}
+{"dsn":"Wendy’s","oem":"Spicy Caesar Chicken Salad, Half Size","identifier":410,"index":75,"lat":30,"long":23}
+{"dsn":"Wendy’s","oem":"Taco Salad, Full Size","identifier":660,"index":85,"lat":63,"long":32}
+{"dsn":"Wendy’s","oem":"Taco Salad, Half Size","identifier":470,"index":45,"lat":49,"long":19}
+{"dsn":"Wendy’s","oem":"Apple Bites","identifier":35,"index":0,"lat":9,"long":0}
+{"dsn":"Wendy’s","oem":"Baconator Fries","identifier":490,"index":35,"lat":45,"long":14}
+{"dsn":"Wendy’s","oem":"Bacon Cheese Baked Potato","identifier":440,"index":35,"lat":64,"long":17}
+{"dsn":"Wendy’s","oem":"Cheese Baked Potato","identifier":430,"index":30,"lat":65,"long":14}
+{"dsn":"Wendy’s","oem":"Chili & Cheese Baked Potato","identifier":460,"index":35,"lat":71,"long":19}
+{"dsn":"Wendy’s","oem":"Chili, Large","identifier":250,"index":50,"lat":23,"long":23}
+{"dsn":"Wendy’s","oem":"Chili, Small","identifier":170,"index":35,"lat":16,"long":15}
+{"dsn":"Wendy’s","oem":"Chili Cheese Fries","identifier":500,"index":35,"lat":53,"long":16}
+{"dsn":"Wendy’s","oem":"Natural-Cut Fries, Junior","identifier":230,"index":0,"lat":30,"long":3}
+{"dsn":"Wendy’s","oem":"Natural-Cut Fries, Large","identifier":530,"index":0,"lat":70,"long":7}
+{"dsn":"Wendy’s","oem":"Natural-Cut Fries, Medium","identifier":420,"index":0,"lat":56,"long":6}
+{"dsn":"Wendy’s","oem":"Natural-Cut Fries, Small","identifier":320,"index":0,"lat":43,"long":5}
+{"dsn":"Wendy’s","oem":"Plain Baked Potato","identifier":270,"index":0,"lat":61,"long":7}
+{"dsn":"Wendy’s","oem":"Sour Cream and Chive Baked Potato","identifier":310,"index":10,"lat":63,"long":8}
+{"dsn":"Wendy’s","oem":"Summer Berry Burst Fruit Cup","identifier":20,"index":0,"lat":5,"long":0}
+{"dsn":"Wendy’s","oem":"1% Chocolate Milk","identifier":150,"index":10,"lat":26,"long":7}
+{"dsn":"Wendy’s","oem":"1% White Milk","identifier":90,"index":10,"lat":10,"long":7}
+{"dsn":"Wendy’s","oem":"All-Natural Lemonade, Large","identifier":380,"index":0,"lat":100,"long":0}
+{"dsn":"Wendy’s","oem":"All-Natural Lemonade, Medium","identifier":330,"index":0,"lat":86,"long":0}
+{"dsn":"Wendy’s","oem":"All-Natural Lemonade, Small","identifier":190,"index":0,"lat":50,"long":0}
+{"dsn":"Wendy’s","oem":"Apple Kiwi Fruit Tea, Large","identifier":330,"index":0,"lat":83,"long":0}
+{"dsn":"Wendy’s","oem":"Apple Kiwi Fruit Tea, Medium","identifier":300,"index":0,"lat":76,"long":0}
+{"dsn":"Wendy’s","oem":"Apple Kiwi Fruit Tea, Small","identifier":170,"index":0,"lat":44,"long":0}
+{"dsn":"Wendy’s","oem":"Barq’s Root Beer, Large","identifier":450,"index":0,"lat":122,"long":0}
+{"dsn":"Wendy’s","oem":"Barq’s Root Beer, Medium","identifier":360,"index":0,"lat":98,"long":0}
+{"dsn":"Wendy’s","oem":"Barq’s Root Beer, Small","identifier":220,"index":0,"lat":61,"long":0}
+{"dsn":"Wendy’s","oem":"Brewed Unsweetened Iced Tea, Large","identifier":5,"index":0,"lat":2,"long":0}
+{"dsn":"Wendy’s","oem":"Brewed Unsweetened Iced Tea, Medium","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Brewed Unsweetened Iced Tea, Small","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Caramel Iced Coffee, Medium","identifier":240,"index":25,"lat":40,"long":3}
+{"dsn":"Wendy’s","oem":"Caramel Iced Coffee, Small","identifier":160,"index":20,"lat":26,"long":2}
+{"dsn":"Wendy’s","oem":"Coca-Cola, Large","identifier":400,"index":0,"lat":109,"long":0}
+{"dsn":"Wendy’s","oem":"Coca-Cola, Medium","identifier":320,"index":0,"lat":87,"long":0}
+{"dsn":"Wendy’s","oem":"Coca-Cola, Small","identifier":200,"index":0,"lat":54,"long":0}
+{"dsn":"Wendy’s","oem":"Coca-Cola Zero Sugar, Large","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Coca-Cola Zero Sugar, Medium","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Coca-Cola Zero Sugar, Small","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Wendy’s","oem":"Diet Coke, Large","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Diet Coke, Medium","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Diet Coke, Small","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Wendy’s","oem":"Dr Pepper, Large","identifier":240,"index":0,"lat":66,"long":0}
+{"dsn":"Wendy’s","oem":"Dr Pepper, Medium","identifier":190,"index":0,"lat":53,"long":0}
+{"dsn":"Wendy’s","oem":"Dr Pepper, Small","identifier":120,"index":0,"lat":33,"long":0}
+{"dsn":"Wendy’s","oem":"Fanta Orange, Large","identifier":430,"index":0,"lat":117,"long":0}
+{"dsn":"Wendy’s","oem":"Fanta Orange, Medium","identifier":340,"index":0,"lat":94,"long":0}
+{"dsn":"Wendy’s","oem":"Fanta Orange, Small","identifier":210,"index":0,"lat":59,"long":0}
+{"dsn":"Wendy’s","oem":"Hi-C Flashin’ Fruit Punch, Large","identifier":420,"index":0,"lat":115,"long":0}
+{"dsn":"Wendy’s","oem":"Hi-C Flashin’ Fruit Punch, Medium","identifier":340,"index":0,"lat":92,"long":0}
+{"dsn":"Wendy’s","oem":"Hi-C Flashin’ Fruit Punch, Small","identifier":210,"index":0,"lat":58,"long":0}
+{"dsn":"Wendy’s","oem":"Honest Tropical Green Tea, Large","identifier":110,"index":0,"lat":29,"long":0}
+{"dsn":"Wendy’s","oem":"Honest Tropical Green Tea, Medium","identifier":90,"index":0,"lat":22,"long":0}
+{"dsn":"Wendy’s","oem":"Honest Tropical Green Tea, Small","identifier":60,"index":0,"lat":14,"long":0}
+{"dsn":"Wendy’s","oem":"Hot Tea","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Limeade, Large","identifier":460,"index":0,"lat":117,"long":0}
+{"dsn":"Wendy’s","oem":"Limeade, Medium","identifier":380,"index":0,"lat":98,"long":0}
+{"dsn":"Wendy’s","oem":"Limeade, Small","identifier":230,"index":0,"lat":59,"long":0}
+{"dsn":"Wendy’s","oem":"Minute Maid Light Lemonade, Large","identifier":15,"index":0,"lat":2,"long":0}
+{"dsn":"Wendy’s","oem":"Minute Maid Light Lemonade, Medium","identifier":10,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Minute Maid Light Lemonade, Small","identifier":5,"index":0,"lat":1,"long":0}
+{"dsn":"Wendy’s","oem":"Mocha Iced Coffee, Medium","identifier":210,"index":25,"lat":32,"long":3}
+{"dsn":"Wendy’s","oem":"Mocha Iced Coffee, Small","identifier":170,"index":20,"lat":28,"long":2}
+{"dsn":"Wendy’s","oem":"Pear Berry Fruit Tea, Large","identifier":320,"index":0,"lat":82,"long":0}
+{"dsn":"Wendy’s","oem":"Pear Berry Fruit Tea, Medium","identifier":300,"index":0,"lat":76,"long":0}
+{"dsn":"Wendy’s","oem":"Pear Berry Fruit Tea, Small","identifier":170,"index":0,"lat":44,"long":0}
+{"dsn":"Wendy’s","oem":"Skinny Vanilla Iced Coffee, Medium","identifier":100,"index":25,"lat":14,"long":3}
+{"dsn":"Wendy’s","oem":"Skinny Vanilla Iced Coffee, Small","identifier":70,"index":15,"lat":6,"long":2}
+{"dsn":"Wendy’s","oem":"Small Sprite, Small","identifier":200,"index":0,"lat":53,"long":0}
+{"dsn":"Wendy’s","oem":"Sprite, Large","identifier":390,"index":0,"lat":105,"long":0}
+{"dsn":"Wendy’s","oem":"Sprite, Medium","identifier":310,"index":0,"lat":84,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Lemonade, Large","identifier":480,"index":0,"lat":121,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Lemonade, Medium","identifier":380,"index":0,"lat":98,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Lemonade, Small","identifier":230,"index":0,"lat":58,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Sweet Tea, Large","identifier":270,"index":0,"lat":69,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Sweet Tea, Medium","identifier":240,"index":0,"lat":60,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Sweet Tea, Small","identifier":140,"index":0,"lat":36,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Tea, Large","identifier":90,"index":0,"lat":22,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Tea, Medium","identifier":60,"index":0,"lat":16,"long":0}
+{"dsn":"Wendy’s","oem":"Strawberry Tea, Small","identifier":45,"index":0,"lat":11,"long":0}
+{"dsn":"Wendy’s","oem":"Sweetened Iced Tea, Large","identifier":300,"index":0,"lat":77,"long":0}
+{"dsn":"Wendy’s","oem":"Sweetened Iced Tea, Medium","identifier":220,"index":0,"lat":58,"long":0}
+{"dsn":"Wendy’s","oem":"Sweetened Iced Tea, Small","identifier":160,"index":0,"lat":41,"long":0}
+{"dsn":"Wendy’s","oem":"Vanilla Iced Coffee, Medium","identifier":250,"index":25,"lat":42,"long":3}
+{"dsn":"Wendy’s","oem":"Vanilla Iced Coffee, Small","identifier":170,"index":20,"lat":28,"long":2}
+{"dsn":"Wendy’s","oem":"Classic Chocolate Frosty, Junior","identifier":200,"index":20,"lat":33,"long":6}
+{"dsn":"Wendy’s","oem":"Classic Chocolate Frosty, Large","identifier":590,"index":60,"lat":99,"long":17}
+{"dsn":"Wendy’s","oem":"Classic Chocolate Frosty, Medium","identifier":470,"index":50,"lat":79,"long":13}
+{"dsn":"Wendy’s","oem":"Classic Chocolate Frosty, Small","identifier":350,"index":35,"lat":58,"long":10}
+{"dsn":"Wendy’s","oem":"Vanilla Frosty, Junior","identifier":190,"index":25,"lat":32,"long":5}
+{"dsn":"Wendy’s","oem":"Vanilla Frosty, Large","identifier":570,"index":70,"lat":94,"long":15}
+{"dsn":"Wendy’s","oem":"Vanilla Frosty, Medium","identifier":450,"index":55,"lat":75,"long":12}
+{"dsn":"Wendy’s","oem":"Vanilla Frosty, Small","identifier":340,"index":45,"lat":56,"long":9}
+{"dsn":"Wendy’s","oem":"Chocolate Chunk Cookie","identifier":310,"index":20,"lat":40,"long":3}
+{"dsn":"Wendy’s","oem":"Double Chocolate Chunk Cookie","identifier":290,"index":20,"lat":39,"long":4}
+{"dsn":"Wendy’s","oem":"Sugar Cookie","identifier":330,"index":25,"lat":43,"long":3}
+{"dsn":"Wendy’s","oem":"Wendy’s Kids’ Meal","identifier":"Calories","index":"Cholesterol (mg)","lat":"Carbs (g)","long":"Protein (g)"}
+{"dsn":"Wendy’s","oem":"Kids 2 Piece Chicken Tenders","identifier":200,"index":45,"lat":13,"long":15}
+{"dsn":"Wendy’s","oem":"Kids 4 Piece Chicken Nuggets","identifier":170,"index":35,"lat":10,"long":9}
+{"dsn":"Wendy’s","oem":"Kids Cheeseburger","identifier":280,"index":50,"lat":25,"long":15}
+{"dsn":"Wendy’s","oem":"Kids Grilled Chicken Wrap","identifier":270,"index":55,"lat":24,"long":20}
+{"dsn":"Wendy’s","oem":"Kids Hamburger","identifier":240,"index":40,"lat":24,"long":13}
+{"dsn":"Wendy’s","oem":"Artisan Egg Sandwich with Bacon","identifier":320,"index":245,"lat":25,"long":18}
+{"dsn":"Wendy’s","oem":"Artisan Egg Sandwich with Sausage","identifier":480,"index":275,"lat":27,"long":21}
+{"dsn":"Wendy’s","oem":"Bacon Breakfast Bowl","identifier":510,"index":245,"lat":44,"long":19}
+{"dsn":"Wendy’s","oem":"Biggie Breakfast Sandwich","identifier":610,"index":290,"lat":37,"long":27}
+{"dsn":"Wendy’s","oem":"Fresh-Baked Biscuit with Applewood Smoked Bacon","identifier":410,"index":235,"lat":34,"long":15}
+{"dsn":"Wendy’s","oem":"Fresh Baked Biscuit with Natural Sausage","identifier":590,"index":270,"lat":36,"long":20}
+{"dsn":"Wendy’s","oem":"Gravy and Sausage Bowl","identifier":450,"index":220,"lat":50,"long":12}
+{"dsn":"Wendy’s","oem":"Honey Butter Chicken Biscuit","identifier":500,"index":50,"lat":48,"long":19}
+{"dsn":"Wendy’s","oem":"Sausage and Egg Burrito","identifier":360,"index":210,"lat":29,"long":17}
+{"dsn":"Wendy’s","oem":"Sausage and Gravy Biscuit","identifier":490,"index":20,"lat":49,"long":8}
+{"dsn":"Wendy’s","oem":"Sausage Biscuit","identifier":480,"index":50,"lat":35,"long":12}
+{"dsn":"Wendy’s","oem":"Sausage Breakfast Bowl","identifier":640,"index":270,"lat":46,"long":21}
+{"dsn":"Wendy’s","oem":"Seasoned Home-Style Potatoes, Large","identifier":360,"index":0,"lat":57,"long":5}
+{"dsn":"Wendy’s","oem":"Seasoned Home-Style Potatoes, Medium","identifier":250,"index":0,"lat":39,"long":4}
+{"dsn":"Wendy’s","oem":"Seasoned Home-Style Potatoes, Small","identifier":230,"index":0,"lat":35,"long":3}
+{"dsn":"Wendy’s","oem":"Two Sausage and Egg Burritos","identifier":720,"index":420,"lat":59,"long":34}
+{"dsn":"Wendy’s","oem":"Two Sausage Biscuits","identifier":960,"index":95,"lat":70,"long":23}
+{"dsn":"KFC","oem":"Limited Time Cinnabon Dessert  Biscuits","identifier":290,"index":"<5","lat":40,"long":4}
+{"dsn":"KFC","oem":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast","identifier":390,"index":120,"lat":11,"long":39}
+{"dsn":"KFC","oem":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick","identifier":130,"index":55,"lat":4,"long":12}
+{"dsn":"KFC","oem":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh","identifier":280,"index":100,"lat":8,"long":19}
+{"dsn":"KFC","oem":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing","identifier":130,"index":55,"lat":3,"long":10}
+{"dsn":"KFC","oem":"Chicken Breast","identifier":770,"index":105,"lat":21,"long":35}
+{"dsn":"KFC","oem":"Chicken Drumstick","identifier":250,"index":50,"lat":6,"long":11}
+{"dsn":"KFC","oem":"Chicken Thigh","identifier":500,"index":100,"lat":11,"long":22}
+{"dsn":"KFC","oem":"Chicken Whole Wing","identifier":290,"index":45,"lat":6,"long":10}
+{"dsn":"KFC","oem":"Breast","identifier":260,"index":130,"lat":1,"long":38}
+{"dsn":"KFC","oem":"Drumstick","identifier":100,"index":55,"lat":0,"long":11}
+{"dsn":"KFC","oem":"Thigh","identifier":180,"index":90,"lat":0,"long":17}
+{"dsn":"KFC","oem":"Whole Wing","identifier":90,"index":45,"lat":1,"long":9}
+{"dsn":"KFC","oem":"Breast","identifier":540,"index":100,"lat":14,"long":31}
+{"dsn":"KFC","oem":"Drumstick","identifier":190,"index":40,"lat":6,"long":9}
+{"dsn":"KFC","oem":"Thigh","identifier":390,"index":65,"lat":12,"long":13}
+{"dsn":"KFC","oem":"Whole Wing","identifier":180,"index":35,"lat":5,"long":8}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Chicken Breast","identifier":530,"index":105,"lat":18,"long":35}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Chicken Drumstick","identifier":170,"index":50,"lat":5,"long":10}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Chicken Thigh","identifier":330,"index":100,"lat":9,"long":22}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Chicken Whole Wing","identifier":170,"index":45,"lat":5,"long":10}
+{"dsn":"KFC","oem":"KENTUCKY GRILLED CHICKEN Breast","identifier":210,"index":130,"lat":0,"long":38}
+{"dsn":"KFC","oem":"KENTUCKY GRILLED CHICKEN Drumstick","identifier":80,"index":55,"lat":0,"long":11}
+{"dsn":"KFC","oem":"KENTUCKY GRILLED CHICKEN Thigh","identifier":150,"index":90,"lat":0,"long":17}
+{"dsn":"KFC","oem":"KENTUCKY GRILLED CHICKEN Whole Wing","identifier":70,"index":45,"lat":0,"long":9}
+{"dsn":"KFC","oem":"SPICY CRISPY CHICKEN Breast","identifier":350,"index":100,"lat":11,"long":30}
+{"dsn":"KFC","oem":"SPICY CRISPY CHICKEN Drumstick","identifier":130,"index":40,"lat":5,"long":9}
+{"dsn":"KFC","oem":"SPICY CRISPY CHICKEN Thigh","identifier":270,"index":65,"lat":10,"long":13}
+{"dsn":"KFC","oem":"SPICY CRISPY CHICKEN Whole Wing","identifier":120,"index":35,"lat":5,"long":7}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Tender (each)","identifier":260,"index":50,"lat":15,"long":19}
+{"dsn":"KFC","oem":"EXTRA CRISPY  Tender (each)","identifier":220,"index":25,"lat":9,"long":10}
+{"dsn":"KFC","oem":"KENTUCKY FRIED WINGS Buffalo","identifier":100,"index":20,"lat":3,"long":5}
+{"dsn":"KFC","oem":"KENTUCKY FRIED WINGS Honey BBQ","identifier":100,"index":20,"lat":8,"long":5}
+{"dsn":"KFC","oem":"KENTUCKY FRIED WINGS Nashville Hot","identifier":130,"index":20,"lat":4,"long":5}
+{"dsn":"KFC","oem":"KENTUCKY FRIED WINGS Unsauced","identifier":80,"index":20,"lat":3,"long":5}
+{"dsn":"KFC","oem":"POPCORN NUGGETS Kids","identifier":290,"index":30,"lat":19,"long":13}
+{"dsn":"KFC","oem":"POPCORN NUGGETS Large","identifier":620,"index":65,"lat":39,"long":27}
+{"dsn":"KFC","oem":"BBQ Baked Beans","identifier":190,"index":0,"lat":34,"long":11}
+{"dsn":"KFC","oem":"Biscuit","identifier":180,"index":0,"lat":22,"long":4}
+{"dsn":"KFC","oem":"Coleslaw","identifier":170,"index":"<5","lat":14,"long":1}
+{"dsn":"KFC","oem":"Corn on the Cob","identifier":70,"index":0,"lat":17,"long":2}
+{"dsn":"KFC","oem":"Green Beans","identifier":25,"index":0,"lat":5,"long":1}
+{"dsn":"KFC","oem":"KFC® Cornbread Muffin","identifier":210,"index":35,"lat":28,"long":3}
+{"dsn":"KFC","oem":"Macaroni & Cheese","identifier":140,"index":"<5","lat":17,"long":5}
+{"dsn":"KFC","oem":"Macaroni Salad","identifier":140,"index":15,"lat":14,"long":1}
+{"dsn":"KFC","oem":"Mashed Potatoes","identifier":110,"index":0,"lat":17,"long":2}
+{"dsn":"KFC","oem":"Mashed Potatoes With Gravy","identifier":130,"index":0,"lat":20,"long":3}
+{"dsn":"KFC","oem":"Potato Salad","identifier":340,"index":25,"lat":19,"long":2}
+{"dsn":"KFC","oem":"Secret Recipe Fries","identifier":320,"index":0,"lat":41,"long":5}
+{"dsn":"KFC","oem":"Sweet Kernel Corn","identifier":70,"index":0,"lat":16,"long":2}
+{"dsn":"KFC","oem":"BBQ Baked Beans (Family)","identifier":830,"index":0,"lat":148,"long":47}
+{"dsn":"KFC","oem":"Coleslaw (Family)","identifier":640,"index":15,"lat":54,"long":4}
+{"dsn":"KFC","oem":"Corn on the Cob (Family)","identifier":280,"index":0,"lat":67,"long":9}
+{"dsn":"KFC","oem":"Green Beans (Family)","identifier":80,"index":0,"lat":15,"long":4}
+{"dsn":"KFC","oem":"Macaroni & Cheese (Family)","identifier":540,"index":10,"lat":66,"long":18}
+{"dsn":"KFC","oem":"Macaroni Salad (Family)","identifier":480,"index":55,"lat":50,"long":3}
+{"dsn":"KFC","oem":"Mashed Potatoes (Family)","identifier":460,"index":0,"lat":72,"long":9}
+{"dsn":"KFC","oem":"Mashed Potatoes With Gravy (Family)","identifier":590,"index":0,"lat":88,"long":12}
+{"dsn":"KFC","oem":"Potato Salad (Family)","identifier":1200,"index":80,"lat":65,"long":8}
+{"dsn":"KFC","oem":"Secret Recipe Fries (Family)","identifier":840,"index":0,"lat":108,"long":13}
+{"dsn":"KFC","oem":"Sweet Kernel Corn (Family)","identifier":280,"index":0,"lat":67,"long":10}
+{"dsn":"KFC","oem":"Chicken Littles","identifier":300,"index":30,"lat":27,"long":14}
+{"dsn":"KFC","oem":"Chicken Littles – Buffalo","identifier":310,"index":30,"lat":27,"long":14}
+{"dsn":"KFC","oem":"Chicken Littles – Honey BBQ","identifier":320,"index":30,"lat":31,"long":14}
+{"dsn":"KFC","oem":"Chicken Littles – Nashville Hot","identifier":340,"index":30,"lat":27,"long":14}
+{"dsn":"KFC","oem":"Classic Chicken Sandwich","identifier":650,"index":90,"lat":49,"long":34}
+{"dsn":"KFC","oem":"Crispy Colonel’s Sandwich","identifier":470,"index":60,"lat":39,"long":24}
+{"dsn":"KFC","oem":"Crispy Colonel’s Sandwich – Buffalo","identifier":500,"index":60,"lat":39,"long":24}
+{"dsn":"KFC","oem":"Crispy Colonel’s Sandwich – Honey BBQ","identifier":510,"index":60,"lat":48,"long":24}
+{"dsn":"KFC","oem":"Crispy Colonel’s Sandwich – Nashville Hot","identifier":540,"index":60,"lat":40,"long":24}
+{"dsn":"KFC","oem":"Crispy Twister®","identifier":630,"index":70,"lat":53,"long":28}
+{"dsn":"KFC","oem":"Honey BBQ Sandwich","identifier":350,"index":55,"lat":55,"long":24}
+{"dsn":"KFC","oem":"Spicy Chicken Sandwich","identifier":620,"index":85,"lat":49,"long":34}
+{"dsn":"KFC","oem":"Chicken Pot Pie","identifier":720,"index":80,"lat":60,"long":26}
+{"dsn":"KFC","oem":"KFC® Famous Bowl","identifier":740,"index":45,"lat":81,"long":26}
+{"dsn":"KFC","oem":"KFC® Famous Bowl – Snack Size","identifier":270,"index":20,"lat":27,"long":11}
+{"dsn":"KFC","oem":"Caesar Side Salad","identifier":40,"index":5,"lat":2,"long":3}
+{"dsn":"KFC","oem":"House Side Salad","identifier":15,"index":0,"lat":3,"long":1}
+{"dsn":"KFC","oem":"Heinz Buttermilk Dressing","identifier":160,"index":10,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Hidden Valley The Original Ranch Fat Free Dressing","identifier":35,"index":0,"lat":8,"long":1}
+{"dsn":"KFC","oem":"KFC® Creamy Parmesan Caesar Dressing","identifier":260,"index":15,"lat":4,"long":2}
+{"dsn":"KFC","oem":"Marzetti Light Italian Dressing","identifier":15,"index":0,"lat":2,"long":0}
+{"dsn":"KFC","oem":"Parmesan Garlic Croutons","identifier":60,"index":0,"lat":8,"long":2}
+{"dsn":"KFC","oem":"Apple Turnover","identifier":230,"index":0,"lat":32,"long":2}
+{"dsn":"KFC","oem":"Café Valley Chocolate Chip Cake (1 Slice)","identifier":300,"index":50,"lat":39,"long":4}
+{"dsn":"KFC","oem":"Café Valley Lemon Cake (1 Slice)","identifier":220,"index":30,"lat":30,"long":2}
+{"dsn":"KFC","oem":"Café Valley Mini Chocolate Chip Cake","identifier":300,"index":40,"lat":49,"long":3}
+{"dsn":"KFC","oem":"Café Valley Mini Lemon Cake","identifier":300,"index":50,"lat":43,"long":3}
+{"dsn":"KFC","oem":"Chocolate Chip Cookie","identifier":120,"index":"<5","lat":18,"long":1}
+{"dsn":"KFC","oem":"Oreo Cookies and Crème Pie","identifier":270,"index":"<5","lat":35,"long":3}
+{"dsn":"KFC","oem":"Reese’s Peanut Butter Pie","identifier":300,"index":"<5","lat":33,"long":5}
+{"dsn":"KFC","oem":"BBQ – Dipping Sauce Cup","identifier":45,"index":0,"lat":11,"long":0}
+{"dsn":"KFC","oem":"Colonel’s Buttery Spread","identifier":35,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Grape Jelly Packet","identifier":35,"index":0,"lat":9,"long":0}
+{"dsn":"KFC","oem":"Honey Mustard – Dipping Sauce Cup","identifier":110,"index":"<5","lat":6,"long":0}
+{"dsn":"KFC","oem":"Honey Sauce Packet","identifier":30,"index":0,"lat":8,"long":0}
+{"dsn":"KFC","oem":"Ketchup","identifier":30,"index":0,"lat":8,"long":0}
+{"dsn":"KFC","oem":"KFC Sauce – Dipping Sauce Cup","identifier":90,"index":10,"lat":5,"long":0}
+{"dsn":"KFC","oem":"Lemon Juice Packet","identifier":5,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Ranch – Dipping Sauce Cup","identifier":130,"index":10,"lat":2,"long":0}
+{"dsn":"KFC","oem":"Strawberry Jam Packet","identifier":35,"index":0,"lat":9,"long":0}
+{"dsn":"KFC","oem":"Capri Sun® 100% Juice Fruit Punch","identifier":80,"index":0,"lat":21,"long":0}
+{"dsn":"KFC","oem":"Chocolate Milk 1%","identifier":150,"index":10,"lat":26,"long":7}
+{"dsn":"KFC","oem":"Milk 1%","identifier":90,"index":10,"lat":10,"long":7}
+{"dsn":"KFC","oem":"Musselman’s™ Applesauce","identifier":45,"index":0,"lat":12,"long":0}
+{"dsn":"KFC","oem":"7UP® (12 fl oz)","identifier":140,"index":0,"lat":35,"long":0}
+{"dsn":"KFC","oem":"7UP® (16 fl oz)","identifier":190,"index":0,"lat":46,"long":0}
+{"dsn":"KFC","oem":"7UP® (20 fl oz)","identifier":240,"index":0,"lat":58,"long":0}
+{"dsn":"KFC","oem":"7UP® (30 fl oz)","identifier":350,"index":0,"lat":87,"long":0}
+{"dsn":"KFC","oem":"Classic Lemonade (1/2 Gallon)","identifier":880,"index":0,"lat":234,"long":0}
+{"dsn":"KFC","oem":"Classic Lemonade (20 fl oz)","identifier":140,"index":0,"lat":39,"long":0}
+{"dsn":"KFC","oem":"Code Red Mountain Dew® (12 fl oz)","identifier":170,"index":0,"lat":46,"long":0}
+{"dsn":"KFC","oem":"Code Red Mountain Dew® (16 fl oz)","identifier":230,"index":0,"lat":62,"long":0}
+{"dsn":"KFC","oem":"Code Red Mountain Dew® (20 fl oz)","identifier":290,"index":0,"lat":77,"long":0}
+{"dsn":"KFC","oem":"Code Red Mountain Dew® (30 fl oz)","identifier":430,"index":0,"lat":116,"long":0}
+{"dsn":"KFC","oem":"Diet Dr Pepper® (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Dr Pepper® (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Dr Pepper® (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Dr Pepper® (30 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Mist Twst® (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Mist Twst® (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Mist Twst® (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Mist Twst® (30 fl oz)","identifier":5,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Mountain Dew® (12 fl oz)","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Diet Mountain Dew® (16 fl oz)","identifier":5,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Diet Mountain Dew® (20 fl oz)","identifier":10,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Diet Mountain Dew® (30 fl oz)","identifier":10,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® (30 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® Wild Cherry Pepsi® (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® Wild Cherry Pepsi® (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® Wild Cherry Pepsi® (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Diet Pepsi® Wild Cherry Pepsi® (30 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Dr Pepper® (12 fl oz)","identifier":140,"index":0,"lat":39,"long":0}
+{"dsn":"KFC","oem":"Dr Pepper® (16 fl oz)","identifier":190,"index":0,"lat":52,"long":0}
+{"dsn":"KFC","oem":"Dr Pepper® (20 fl oz)","identifier":240,"index":0,"lat":65,"long":0}
+{"dsn":"KFC","oem":"Dr Pepper® (30 fl oz)","identifier":360,"index":0,"lat":98,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Lemon Tea (12 fl oz)","identifier":80,"index":0,"lat":22,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Lemon Tea (16 fl oz)","identifier":110,"index":0,"lat":29,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Lemon Tea (20 fl oz)","identifier":140,"index":0,"lat":36,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Lemon Tea (30 fl oz)","identifier":210,"index":0,"lat":55,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® No Calorie Peach Iced Green Tea (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® No Calorie Peach Iced Green Tea (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® No Calorie Peach Iced Green Tea (20 fl oz)","identifier":5,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® No Calorie Peach Iced Green Tea (30 fl oz)","identifier":10,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Raspberry Tea (12 fl oz)","identifier":80,"index":0,"lat":20,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Raspberry Tea (16 fl oz)","identifier":100,"index":0,"lat":26,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Raspberry Tea (20 fl oz)","identifier":130,"index":0,"lat":33,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Raspberry Tea (30 fl oz)","identifier":190,"index":0,"lat":49,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Sweet Iced Tea (12 fl oz)","identifier":80,"index":0,"lat":22,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Sweet Iced Tea (16 fl oz)","identifier":110,"index":0,"lat":29,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Sweet Iced Tea (20 fl oz)","identifier":130,"index":0,"lat":36,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Sweet Iced Tea (30 fl oz)","identifier":200,"index":0,"lat":54,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Unsweetened No Lemon Iced Tea (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Lipton® Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Manzanita Sol® (12 fl oz)","identifier":160,"index":0,"lat":42,"long":0}
+{"dsn":"KFC","oem":"Manzanita Sol® (16 fl oz)","identifier":210,"index":0,"lat":57,"long":0}
+{"dsn":"KFC","oem":"Manzanita Sol® (20 fl oz)","identifier":260,"index":0,"lat":71,"long":0}
+{"dsn":"KFC","oem":"Manzanita Sol® (30 fl oz)","identifier":400,"index":0,"lat":106,"long":0}
+{"dsn":"KFC","oem":"Miranda® Strawberry (12 fl oz)","identifier":160,"index":0,"lat":44,"long":0}
+{"dsn":"KFC","oem":"Miranda® Strawberry (16 fl oz)","identifier":220,"index":0,"lat":58,"long":0}
+{"dsn":"KFC","oem":"Miranda® Strawberry (20 fl oz)","identifier":270,"index":0,"lat":73,"long":0}
+{"dsn":"KFC","oem":"Miranda® Strawberry (30 fl oz)","identifier":410,"index":0,"lat":109,"long":0}
+{"dsn":"KFC","oem":"Mist Twst® (12 fl oz)","identifier":150,"index":0,"lat":41,"long":0}
+{"dsn":"KFC","oem":"Mist Twst® (16 fl oz)","identifier":200,"index":0,"lat":54,"long":0}
+{"dsn":"KFC","oem":"Mist Twst® (20 fl oz)","identifier":260,"index":0,"lat":68,"long":0}
+{"dsn":"KFC","oem":"Mist Twst® (30 fl oz)","identifier":380,"index":0,"lat":101,"long":0}
+{"dsn":"KFC","oem":"MNT DEW Sweet Lightning (20 fl oz)","identifier":120,"index":0,"lat":32,"long":0}
+{"dsn":"KFC","oem":"Mountain Dew® (12 fl oz)","identifier":160,"index":0,"lat":44,"long":0}
+{"dsn":"KFC","oem":"Mountain Dew® (16 fl oz)","identifier":220,"index":0,"lat":59,"long":0}
+{"dsn":"KFC","oem":"Mountain Dew® (20 fl oz)","identifier":270,"index":0,"lat":73,"long":0}
+{"dsn":"KFC","oem":"Mountain Dew® (30 fl oz)","identifier":410,"index":0,"lat":110,"long":0}
+{"dsn":"KFC","oem":"Mug Root Beer® (12 fl oz)","identifier":140,"index":0,"lat":39,"long":0}
+{"dsn":"KFC","oem":"Mug Root Beer® (16 fl oz)","identifier":190,"index":0,"lat":52,"long":0}
+{"dsn":"KFC","oem":"Mug Root Beer® (20 fl oz)","identifier":240,"index":0,"lat":65,"long":0}
+{"dsn":"KFC","oem":"Mug Root Beer® (30 fl oz)","identifier":360,"index":0,"lat":98,"long":0}
+{"dsn":"KFC","oem":"Pepsi Zero Sugar® (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Pepsi Zero Sugar® (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Pepsi Zero Sugar® (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Pepsi Zero Sugar® (30 fl oz)","identifier":0,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Pepsi® (12 fl oz)","identifier":150,"index":0,"lat":41,"long":0}
+{"dsn":"KFC","oem":"Pepsi® (16 fl oz)","identifier":200,"index":0,"lat":55,"long":0}
+{"dsn":"KFC","oem":"Pepsi® (20 fl oz)","identifier":250,"index":0,"lat":69,"long":0}
+{"dsn":"KFC","oem":"Pepsi® (30 fl oz)","identifier":380,"index":0,"lat":104,"long":0}
+{"dsn":"KFC","oem":"Sobe Lifewater Yumberry Pomegranate (12 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Sobe Lifewater Yumberry Pomegranate (16 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Sobe Lifewater Yumberry Pomegranate (20 fl oz)","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Sobe Lifewater Yumberry Pomegranate (30 fl oz)","identifier":5,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Strawberry Lemonade (1/2 Gallon)","identifier":950,"index":0,"lat":270,"long":0}
+{"dsn":"KFC","oem":"Strawberry Lemonade (20 fl oz)","identifier":170,"index":0,"lat":45,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Fruit Punch (12 fl oz)","identifier":170,"index":0,"lat":45,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Fruit Punch (16 fl oz)","identifier":230,"index":0,"lat":60,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Fruit Punch (20 fl oz)","identifier":280,"index":0,"lat":75,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Fruit Punch (30 fl oz)","identifier":420,"index":0,"lat":113,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Light Lemonade (12 fl oz)","identifier":5,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Light Lemonade (16 fl oz)","identifier":10,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Light Lemonade (20 fl oz)","identifier":10,"index":0,"lat":0,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Light Lemonade (30 fl oz)","identifier":15,"index":0,"lat":1,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Pink Lemonade (12 fl oz)","identifier":150,"index":0,"lat":40,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Pink Lemonade (16 fl oz)","identifier":210,"index":0,"lat":53,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Pink Lemonade (20 fl oz)","identifier":260,"index":0,"lat":67,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Pink Lemonade (30 fl oz)","identifier":390,"index":0,"lat":100,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Twister® Orange (12 fl oz)","identifier":170,"index":0,"lat":46,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Twister® Orange (16 fl oz)","identifier":230,"index":0,"lat":61,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Twister® Orange (20 fl oz)","identifier":290,"index":0,"lat":76,"long":0}
+{"dsn":"KFC","oem":"Tropicana® Twister® Orange (30 fl oz)","identifier":430,"index":0,"lat":115,"long":0}
+{"dsn":"KFC","oem":"Wild Cherry Pepsi® (12 fl oz)","identifier":160,"index":0,"lat":42,"long":0}
+{"dsn":"KFC","oem":"Wild Cherry Pepsi® (16 fl oz)","identifier":210,"index":0,"lat":56,"long":0}
+{"dsn":"KFC","oem":"Wild Cherry Pepsi® (20 fl oz)","identifier":260,"index":0,"lat":70,"long":0}
+{"dsn":"KFC","oem":"Wild Cherry Pepsi® (30 fl oz)","identifier":390,"index":0,"lat":105,"long":0}
+{"dsn":"KFC","oem":"Country Fried Steak without Peppered White Gravy","identifier":360,"index":35,"lat":22,"long":13}
+{"dsn":"KFC","oem":"Country Fried Steak with Peppered White Gravy","identifier":390,"index":35,"lat":26,"long":13}
+{"dsn":"KFC","oem":"KFC® Gizzards","identifier":300,"index":210,"lat":18,"long":20}
+{"dsn":"KFC","oem":"KFC® Livers","identifier":230,"index":285,"lat":12,"long":17}
+{"dsn":"Taco Bell","oem":"Bacon Club Chalupa","identifier":440,"index":0,"lat":840,"long":3}
+{"dsn":"Taco Bell","oem":"Blue Raspberry Freeze™ (16 oz)","identifier":120,"index":0,"lat":35,"long":30}
+{"dsn":"Taco Bell","oem":"Blue Raspberry Freeze™ (20 oz)","identifier":150,"index":0,"lat":40,"long":38}
+{"dsn":"Taco Bell","oem":"Loaded Nacho Taco","identifier":250,"index":0,"lat":610,"long":2}
+{"dsn":"Taco Bell","oem":"Midnight Berry Freeze™ (16 oz)","identifier":140,"index":0,"lat":35,"long":34}
+{"dsn":"Taco Bell","oem":"Midnight Berry Freeze™ (20 oz)","identifier":170,"index":0,"lat":40,"long":42}
+{"dsn":"Taco Bell","oem":"Nacho Fries","identifier":320,"index":0,"lat":630,"long":2}
+{"dsn":"Taco Bell","oem":"Nacho Fries BellGrande®","identifier":710,"index":0,"lat":1440,"long":4}
+{"dsn":"Taco Bell","oem":"Black Bean Chalupa – Online Exclusive","identifier":330,"index":0,"lat":430,"long":3}
+{"dsn":"Taco Bell","oem":"Black Bean Quesarito – Online Exclusive","identifier":630,"index":0,"lat":1260,"long":5}
+{"dsn":"Taco Bell","oem":"Quesarito – Online Exclusive","identifier":650,"index":0.5,"lat":1390,"long":5}
+{"dsn":"Taco Bell","oem":"Chalupa Supreme® – Beef","identifier":350,"index":0,"lat":560,"long":3}
+{"dsn":"Taco Bell","oem":"Chalupa Supreme® – Chicken","identifier":330,"index":0,"lat":560,"long":3}
+{"dsn":"Taco Bell","oem":"Chalupa Supreme® – Steak","identifier":330,"index":0,"lat":530,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Gordita Crunch","identifier":500,"index":0.5,"lat":850,"long":4}
+{"dsn":"Taco Bell","oem":"Crunchy Taco","identifier":170,"index":0,"lat":310,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Crunchy Taco Supreme®","identifier":190,"index":0,"lat":340,"long":2}
+{"dsn":"Taco Bell","oem":"Loaded Nacho Taco (New)","identifier":250,"index":0,"lat":610,"long":2}
+{"dsn":"Taco Bell","oem":"Nacho Cheese Doritos® Locos Taco","identifier":170,"index":0,"lat":360,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Nacho Cheese Doritos® Locos Taco Supreme®","identifier":190,"index":0,"lat":380,"long":2}
+{"dsn":"Taco Bell","oem":"Soft Taco – Beef","identifier":180,"index":0,"lat":500,"long":1}
+{"dsn":"Taco Bell","oem":"Soft Taco – Chicken","identifier":160,"index":0,"lat":500,"long":1}
+{"dsn":"Taco Bell","oem":"Soft Taco Supreme®","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Taco Bell","oem":"Soft Taco – Beef","identifier":210,"index":0,"lat":520,"long":2}
+{"dsn":"Taco Bell","oem":"Soft Taco – Chicken","identifier":180,"index":0,"lat":520,"long":2}
+{"dsn":"Taco Bell","oem":"Bean Burrito (V)","identifier":350,"index":0,"lat":1000,"long":3}
+{"dsn":"Taco Bell","oem":"Beefy 5-Layer Burrito","identifier":490,"index":0,"lat":1250,"long":5}
+{"dsn":"Taco Bell","oem":"Burrito Supreme® – Beef","identifier":390,"index":0,"lat":1110,"long":4}
+{"dsn":"Taco Bell","oem":"Burrito Supreme® – Chicken","identifier":370,"index":0,"lat":1110,"long":4}
+{"dsn":"Taco Bell","oem":"Burrito Supreme® – Steak","identifier":370,"index":0,"lat":1090,"long":4}
+{"dsn":"Taco Bell","oem":"Chili Cheese Burrito (regional)","identifier":370,"index":0,"lat":970,"long":2}
+{"dsn":"Taco Bell","oem":"Quesarito – Beef","identifier":650,"index":0.5,"lat":1390,"long":5}
+{"dsn":"Taco Bell","oem":"Quesarito – Chicken","identifier":620,"index":0,"lat":1390,"long":4}
+{"dsn":"Taco Bell","oem":"Quesarito – Steak","identifier":630,"index":0,"lat":1370,"long":4}
+{"dsn":"Taco Bell","oem":"Chips and Nacho Cheese Sauce (V)","identifier":220,"index":0,"lat":250,"long":2}
+{"dsn":"Taco Bell","oem":"Nacho Fries (V) (New)","identifier":320,"index":0,"lat":630,"long":2}
+{"dsn":"Taco Bell","oem":"Nacho Fries BellGrande® (New)","identifier":710,"index":0,"lat":1440,"long":4}
+{"dsn":"Taco Bell","oem":"Nachos BellGrande® – Beef","identifier":740,"index":0,"lat":1050,"long":5}
+{"dsn":"Taco Bell","oem":"Nachos BellGrande® – Chicken","identifier":720,"index":0,"lat":1050,"long":5}
+{"dsn":"Taco Bell","oem":"Nachos BellGrande® – Steak","identifier":720,"index":0,"lat":1030,"long":5}
+{"dsn":"Taco Bell","oem":"Beef Quesarito","identifier":650,"index":0.5,"lat":1390,"long":5}
+{"dsn":"Taco Bell","oem":"Black Bean Quesarito (V)","identifier":630,"index":0,"lat":1260,"long":5}
+{"dsn":"Taco Bell","oem":"Quesadilla – Cheese (V)","identifier":470,"index":0.5,"lat":990,"long":2}
+{"dsn":"Taco Bell","oem":"Quesadilla – Chicken","identifier":510,"index":0.5,"lat":1250,"long":2}
+{"dsn":"Taco Bell","oem":"Quesadilla – Steak","identifier":520,"index":0.5,"lat":1230,"long":2}
+{"dsn":"Taco Bell","oem":"Bacon Club Chalupa – Specialties","identifier":440,"index":0,"lat":840,"long":3}
+{"dsn":"Taco Bell","oem":"Black Bean Chalupa – Specialties","identifier":330,"index":0,"lat":430,"long":3}
+{"dsn":"Taco Bell","oem":"Black Bean Crunchwrap Supreme – Specialties","identifier":510,"index":0,"lat":1080,"long":6}
+{"dsn":"Taco Bell","oem":"Black Bean Quesarito – Specialties","identifier":630,"index":0,"lat":1260,"long":5}
+{"dsn":"Taco Bell","oem":"Chalupa Supreme® – Specialties","identifier":350,"index":0,"lat":560,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Gordita Crunch – Specialties","identifier":500,"index":0.5,"lat":850,"long":4}
+{"dsn":"Taco Bell","oem":"Cheesy Roll Up – Specialties","identifier":180,"index":0,"lat":430,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Crunchwrap Supreme® – Specialties","identifier":530,"index":0,"lat":1200,"long":6}
+{"dsn":"Taco Bell","oem":"Crunchy Taco – Specialties","identifier":170,"index":0,"lat":310,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Nacho Cheese Doritos® Locos Taco – Specialties","identifier":170,"index":0,"lat":360,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Nachos BellGrande® – Specialties","identifier":740,"index":0,"lat":1050,"long":5}
+{"dsn":"Taco Bell","oem":"Power Menu Bowl – Specialties","identifier":470,"index":0,"lat":1200,"long":2}
+{"dsn":"Taco Bell","oem":"Quesadilla – Specialties","identifier":510,"index":0.5,"lat":1250,"long":2}
+{"dsn":"Taco Bell","oem":"Quesarito – Specialties","identifier":650,"index":0.5,"lat":1390,"long":5}
+{"dsn":"Taco Bell","oem":"Soft Taco – Specialties","identifier":180,"index":0,"lat":500,"long":1}
+{"dsn":"Taco Bell","oem":"Soft Taco Supreme – Specialties","identifier":210,"index":0,"lat":520,"long":2}
+{"dsn":"Taco Bell","oem":"Veggie Power Menu Bowl – Specialties","identifier":430,"index":0,"lat":810,"long":2}
+{"dsn":"Taco Bell","oem":"Black Beans & Rice (V)","identifier":170,"index":0,"lat":320,"long":0}
+{"dsn":"Taco Bell","oem":"Black Beans (V)","identifier":50,"index":0,"lat":135,"long":0}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (2 Pk) (V)","identifier":160,"index":0,"lat":80,"long":10}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (12 Pk – Serves 4) (V)","identifier":930,"index":2,"lat":480,"long":59}
+{"dsn":"Taco Bell","oem":"Cinnamon Twists (V)","identifier":170,"index":0,"lat":210,"long":13}
+{"dsn":"Taco Bell","oem":"Diablo Sauce Packet (V)","identifier":0,"index":0,"lat":30,"long":0}
+{"dsn":"Taco Bell","oem":"Fire Sauce Packet (V)","identifier":0,"index":0,"lat":55,"long":0}
+{"dsn":"Taco Bell","oem":"Hot Sauce Packet (V)","identifier":0,"index":0,"lat":45,"long":0}
+{"dsn":"Taco Bell","oem":"Mild Sauce Packet (V)","identifier":0,"index":0,"lat":30,"long":0}
+{"dsn":"Taco Bell","oem":"Blue Raspberry Freeze™ (16 oz) (New)","identifier":120,"index":0,"lat":35,"long":30}
+{"dsn":"Taco Bell","oem":"Blue Raspberry Freeze™ (20 oz) (New)","identifier":150,"index":0,"lat":40,"long":38}
+{"dsn":"Taco Bell","oem":"Dragon Fruit Freeze (16 oz)","identifier":190,"index":0,"lat":50,"long":47}
+{"dsn":"Taco Bell","oem":"Dragon Fruit Freeze (20 oz)","identifier":230,"index":0,"lat":60,"long":57}
+{"dsn":"Taco Bell","oem":"Lowfat Milk – CA (Regional)","identifier":100,"index":0,"lat":130,"long":12}
+{"dsn":"Taco Bell","oem":"Lowfat Milk – Federal (Regional)","identifier":80,"index":0,"lat":100,"long":9}
+{"dsn":"Taco Bell","oem":"Midnight Berry Freeze™ (16 oz) (New)","identifier":140,"index":0,"lat":35,"long":34}
+{"dsn":"Taco Bell","oem":"Midnight Berry Freeze™ (20 oz) (New)","identifier":170,"index":0,"lat":40,"long":42}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast Freeze™ (16 oz)","identifier":150,"index":0,"lat":45,"long":41}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast Freeze™ (20 oz)","identifier":190,"index":0,"lat":55,"long":51}
+{"dsn":"Taco Bell","oem":"Orange Juice","identifier":140,"index":0,"lat":20,"long":28}
+{"dsn":"Taco Bell","oem":"Premium Hot Coffee","identifier":10,"index":0,"lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Regular Iced Coffee","identifier":10,"index":0,"lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Water","identifier":0,"index":0,"lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Wild Strawberry Freeze™ (16 oz)","identifier":150,"index":0,"lat":40,"long":41}
+{"dsn":"Taco Bell","oem":"Wild Strawberry Freeze™ (20 oz)","identifier":190,"index":0,"lat":55,"long":51}
+{"dsn":"Taco Bell","oem":"Beef Burrito – Value Menu","identifier":430,"index":0,"lat":970,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Bean & Rice Burrito – Value Menu","identifier":420,"index":0,"lat":880,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Roll Up – Value Menu","identifier":180,"index":0,"lat":430,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Chicken Chipotle Melt – Value Menu","identifier":190,"index":0,"lat":530,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Chips and Nacho Cheese Sauce – Value Menu","identifier":220,"index":0,"lat":250,"long":2}
+{"dsn":"Taco Bell","oem":"Cinnamon Twists – Value Menu","identifier":170,"index":0,"lat":210,"long":13}
+{"dsn":"Taco Bell","oem":"Loaded Nacho Taco – Value Menu","identifier":250,"index":0,"lat":610,"long":2}
+{"dsn":"Taco Bell","oem":"Bean Burrito","identifier":350,"index":0,"lat":1000,"long":3}
+{"dsn":"Taco Bell","oem":"Black Bean Chalupa","identifier":330,"index":0,"lat":430,"long":3}
+{"dsn":"Taco Bell","oem":"Black Bean Crunchwrap Supreme","identifier":510,"index":0,"lat":1080,"long":6}
+{"dsn":"Taco Bell","oem":"Black Bean Quesarito","identifier":630,"index":0,"lat":1260,"long":5}
+{"dsn":"Taco Bell","oem":"Black Beans & Rice","identifier":170,"index":0,"lat":320,"long":0}
+{"dsn":"Taco Bell","oem":"Cheese Quesadilla","identifier":470,"index":0.5,"lat":990,"long":2}
+{"dsn":"Taco Bell","oem":"Cheesy Bean & Rice Burrito","identifier":420,"index":0,"lat":880,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Roll Up","identifier":180,"index":0,"lat":430,"long":"<1"}
+{"dsn":"Taco Bell","oem":"Chips and Nacho Cheese Sauce","identifier":220,"index":0,"lat":250,"long":2}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (2 Pack)","identifier":160,"index":0,"lat":80,"long":10}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (12 Pack – Serves 4)","identifier":930,"index":2,"lat":480,"long":59}
+{"dsn":"Taco Bell","oem":"Cinnamon Twists","identifier":170,"index":0,"lat":210,"long":13}
+{"dsn":"Taco Bell","oem":"Hash Brown","identifier":160,"index":0,"lat":270,"long":0}
+{"dsn":"Taco Bell","oem":"Power Menu Bowl – Veggie","identifier":430,"index":0,"lat":810,"long":2}
+{"dsn":"Taco Bell","oem":"Power Menu Bowl – Chicken","identifier":470,"index":0,"lat":1200,"long":2}
+{"dsn":"Taco Bell","oem":"Power Menu Bowl – Steak","identifier":480,"index":0,"lat":1150,"long":2}
+{"dsn":"Taco Bell","oem":"Power Menu Bowl – Veggie (V)","identifier":430,"index":0,"lat":810,"long":2}
+{"dsn":"Taco Bell","oem":"Breakfast Crunchwrap – Bacon","identifier":670,"index":0,"lat":1270,"long":3}
+{"dsn":"Taco Bell","oem":"Breakfast Crunchwrap – Sausage","identifier":720,"index":0,"lat":1210,"long":3}
+{"dsn":"Taco Bell","oem":"Breakfast Crunchwrap – Steak","identifier":660,"index":0,"lat":1300,"long":3}
+{"dsn":"Taco Bell","oem":"Breakfast Salsa Packet (V)","identifier":0,"index":0,"lat":50,"long":0}
+{"dsn":"Taco Bell","oem":"Cheesy Toasted Breakfast Burrito – Bacon","identifier":350,"index":0,"lat":870,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Toasted Breakfast Burrito – Fiesta Potato (V)","identifier":340,"index":0,"lat":750,"long":3}
+{"dsn":"Taco Bell","oem":"Cheesy Toasted Breakfast Burrito – Sausage","identifier":340,"index":0,"lat":730,"long":3}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (2 Pack) (V)","identifier":160,"index":0,"lat":80,"long":10}
+{"dsn":"Taco Bell","oem":"Cinnabon® Delights™ (12 Pack – Serves 4) (V)","identifier":930,"index":2,"lat":480,"long":59}
+{"dsn":"Taco Bell","oem":"Grande Toasted Breakfast Burrito – Bacon","identifier":560,"index":0,"lat":1290,"long":3}
+{"dsn":"Taco Bell","oem":"Grande Toasted Breakfast Burrito – Sausage","identifier":560,"index":0,"lat":1150,"long":3}
+{"dsn":"Taco Bell","oem":"Grande Toasted Breakfast Burrito – Steak","identifier":560,"index":0,"lat":1310,"long":3}
+{"dsn":"Taco Bell","oem":"Hash Brown (V)","identifier":160,"index":0,"lat":270,"long":0}
+{"dsn":"Taco Bell","oem":"Hash Brown Toasted Breakfast Burrito – Bacon","identifier":570,"index":0,"lat":1270,"long":2}
+{"dsn":"Taco Bell","oem":"Hash Brown Toasted Breakfast Burrito – Sausage","identifier":570,"index":0,"lat":1130,"long":2}
+{"dsn":"Taco Bell","oem":"Hash Brown Toasted Breakfast Burrito – Steak","identifier":570,"index":0,"lat":1290,"long":2}
+{"dsn":"Taco Bell","oem":"7-Up (16 fl oz)","identifier":190,"index":"","lat":46,"long":46}
+{"dsn":"Taco Bell","oem":"Brisk® Mango Iced Tea (16 fl oz)","identifier":100,"index":"","lat":26,"long":26}
+{"dsn":"Taco Bell","oem":"Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Dr Pepper® (16 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Mtn Dew® (16 fl oz)","identifier":5,"index":"","lat":1,"long":1}
+{"dsn":"Taco Bell","oem":"Diet Pepsi® (16 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Dr Pepper® (16 fl oz)","identifier":190,"index":"","lat":52,"long":51}
+{"dsn":"Taco Bell","oem":"G2 – Fruit Punch (16 fl oz)","identifier":30,"index":"","lat":7,"long":6}
+{"dsn":"Taco Bell","oem":"Mtn Dew® (16 fl oz)","identifier":220,"index":"","lat":59,"long":58}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast™ (16 fl oz)","identifier":220,"index":"","lat":59,"long":59}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast Zero Sugar (16 fl oz)","identifier":5,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Kickstart™ Orange Citrus (16 fl oz)","identifier":70,"index":"","lat":18,"long":18}
+{"dsn":"Taco Bell","oem":"Mug® Root Beer (16 fl oz)","identifier":190,"index":"","lat":52,"long":52}
+{"dsn":"Taco Bell","oem":"Pepsi® (16 fl oz)","identifier":200,"index":"","lat":55,"long":55}
+{"dsn":"Taco Bell","oem":"Pepsi® Wild Cherry (16 fl oz)","identifier":210,"index":"","lat":56,"long":56}
+{"dsn":"Taco Bell","oem":"Pepsi® Zero Sugar (16 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Sierra Mist® (16 fl oz)","identifier":200,"index":"","lat":54,"long":54}
+{"dsn":"Taco Bell","oem":"Tropicana® Pink Lemonade (16 fl oz)","identifier":210,"index":"","lat":53,"long":53}
+{"dsn":"Taco Bell","oem":"7-Up (20 fl oz)","identifier":240,"index":"","lat":58,"long":58}
+{"dsn":"Taco Bell","oem":"Brisk® Mango Iced Tea (20 fl oz)","identifier":120,"index":"","lat":32,"long":32}
+{"dsn":"Taco Bell","oem":"Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Dr Pepper® (20 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Mtn Dew® (20 fl oz)","identifier":10,"index":"","lat":1,"long":1}
+{"dsn":"Taco Bell","oem":"Diet Pepsi® (20 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Dr Pepper® (20 fl oz)","identifier":240,"index":"","lat":65,"long":64}
+{"dsn":"Taco Bell","oem":"G2 – Fruit Punch (20 fl oz)","identifier":35,"index":"","lat":9,"long":8}
+{"dsn":"Taco Bell","oem":"Mtn Dew® (20 fl oz)","identifier":270,"index":"","lat":73,"long":73}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast™ (20 fl oz)","identifier":280,"index":"","lat":74,"long":73}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast Zero Sugar (20 fl oz)","identifier":10,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Kickstart™ Orange Citrus (20 fl oz)","identifier":90,"index":"","lat":23,"long":22}
+{"dsn":"Taco Bell","oem":"Mug® Root Beer (20 fl oz)","identifier":240,"index":"","lat":65,"long":65}
+{"dsn":"Taco Bell","oem":"Pepsi® (20 fl oz)","identifier":250,"index":"","lat":69,"long":69}
+{"dsn":"Taco Bell","oem":"Pepsi® Wild Cherry (20 fl oz)","identifier":260,"index":"","lat":70,"long":70}
+{"dsn":"Taco Bell","oem":"Pepsi® Zero Sugar (20 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Sierra Mist® (20 fl oz)","identifier":260,"index":"","lat":68,"long":68}
+{"dsn":"Taco Bell","oem":"Tropicana® Pink Lemonade (20 fl oz)","identifier":260,"index":"","lat":67,"long":67}
+{"dsn":"Taco Bell","oem":"","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Taco Bell","oem":"FOUNTAIN BEVERAGES (30 OZ)","identifier":"","index":"","lat":"","long":""}
+{"dsn":"Taco Bell","oem":"7-Up (30 fl oz)","identifier":350,"index":"","lat":87,"long":87}
+{"dsn":"Taco Bell","oem":"Brisk® Mango Iced Tea (30 fl oz)","identifier":180,"index":"","lat":48,"long":48}
+{"dsn":"Taco Bell","oem":"Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Dr Pepper® (30 fl oz)","identifier":0,"index":"","lat":1,"long":0}
+{"dsn":"Taco Bell","oem":"Diet Mtn Dew® (30 fl oz)","identifier":10,"index":"","lat":1,"long":1}
+{"dsn":"Taco Bell","oem":"Diet Pepsi® (30 fl oz)","identifier":0,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Dr Pepper® (30 fl oz)","identifier":360,"index":"","lat":98,"long":96}
+{"dsn":"Taco Bell","oem":"G2 – Fruit Punch (30 fl oz)","identifier":50,"index":"","lat":13,"long":12}
+{"dsn":"Taco Bell","oem":"Mtn Dew® (30 fl oz)","identifier":410,"index":"","lat":110,"long":109}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast™ (30 fl oz)","identifier":420,"index":"","lat":110,"long":110}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Baja Blast Zero Sugar (30 fl oz)","identifier":15,"index":"","lat":0,"long":0}
+{"dsn":"Taco Bell","oem":"Mtn Dew® Kickstart™ Orange Citrus (30 fl oz)","identifier":130,"index":"","lat":34,"long":33}
+{"dsn":"Taco Bell","oem":"Mug® Root Beer (30 fl oz)","identifier":360,"index":"","lat":98,"long":98}
+{"dsn":"Taco Bell","oem":"Pepsi® (30 fl oz)","identifier":380,"index":"","lat":104,"long":103}
+{"dsn":"Taco Bell","oem":"Pepsi® Wild Cherry (30 fl oz)","identifier":390,"index":"","lat":105,"long":105}
+{"dsn":"Taco Bell","oem":"Pepsi® Zero Sugar (30 fl oz)","identifier":0,"index":"","lat":"<1","long":0}
+{"dsn":"Taco Bell","oem":"Sierra Mist® (30 fl oz)","identifier":380,"index":"","lat":101,"long":101}
+{"dsn":"Taco Bell","oem":"Tropicana® Pink Lemonade (30 fl oz)","identifier":390,"index":"","lat":100,"long":100}
+{"dsn":"Pizza Hut","oem":"Detroit Double Cheesy Pizza Slice","identifier":280,"index":30,"lat":31,"long":13}
+{"dsn":"Pizza Hut","oem":"Detroit Double Pepperoni Pizza Slice","identifier":330,"index":40,"lat":30,"long":14}
+{"dsn":"Pizza Hut","oem":"Detroit Meaty Pizza Slice","identifier":320,"index":35,"lat":31,"long":14}
+{"dsn":"Pizza Hut","oem":"Detroit Supremo Pizza Slice","identifier":290,"index":30,"lat":31,"long":13}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Backyard BBQ Chicken Personal Pan","identifier":180,"index":15,"lat":25,"long":8}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Backyard BBQ Chicken Medium","identifier":270,"index":25,"lat":33,"long":11}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Backyard BBQ Chicken Large","identifier":380,"index":35,"lat":43,"long":16}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Beyond Meat® Pepperoni Medium","identifier":240,"index":15,"lat":29,"long":10}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Beyond Meat® Pepperoni Large","identifier":350,"index":25,"lat":38,"long":14}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Buffalo Chicken Personal Pan","identifier":160,"index":15,"lat":22,"long":7}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Buffalo Chicken Medium","identifier":240,"index":20,"lat":31,"long":11}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Buffalo Chicken Large","identifier":350,"index":30,"lat":40,"long":15}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Cheese Personal Pan","identifier":150,"index":15,"lat":17,"long":7}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Cheese Medium","identifier":250,"index":25,"lat":28,"long":11}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Cheese Large","identifier":360,"index":35,"lat":37,"long":16}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Chicken Bacon Parmesan Personal Pan","identifier":180,"index":20,"lat":17,"long":9}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Chicken Bacon Parmesan Medium","identifier":270,"index":30,"lat":27,"long":12}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Chicken Bacon Parmesan Large","identifier":390,"index":40,"lat":35,"long":18}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Hawaiian Chicken Personal Pan","identifier":150,"index":15,"lat":18,"long":8}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Hawaiian Chicken Medium","identifier":240,"index":20,"lat":29,"long":12}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Hawaiian Chicken Large","identifier":350,"index":30,"lat":38,"long":17}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Meat Lover’s® Personal Pan","identifier":210,"index":25,"lat":18,"long":9}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Meat Lover’s® Medium","identifier":320,"index":35,"lat":28,"long":13}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Meat Lover’s® Large","identifier":470,"index":50,"lat":37,"long":19}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Personal Pan","identifier":150,"index":15,"lat":17,"long":6}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Medium","identifier":250,"index":25,"lat":28,"long":10}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Large","identifier":370,"index":35,"lat":36,"long":15}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Lover’s® Personal Pan","identifier":180,"index":20,"lat":17,"long":8}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Lover’s® Medium","identifier":300,"index":35,"lat":28,"long":13}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Pepperoni Lover’s® Large","identifier":440,"index":50,"lat":37,"long":19}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Supreme Personal Pan","identifier":170,"index":15,"lat":18,"long":7}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Supreme Medium","identifier":270,"index":25,"lat":29,"long":11}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Supreme Large","identifier":390,"index":40,"lat":37,"long":16}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Ultimate Cheese Lover’s® Personal Pan","identifier":170,"index":15,"lat":17,"long":8}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Ultimate Cheese Lover’s® Medium","identifier":270,"index":25,"lat":27,"long":12}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Ultimate Cheese Lover’s® Large","identifier":390,"index":40,"lat":36,"long":17}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Veggie Lover’s® Personal Pan","identifier":140,"index":10,"lat":18,"long":6}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Veggie Lover’s® Medium","identifier":230,"index":15,"lat":29,"long":9}
+{"dsn":"Pizza Hut","oem":"Pan Pizza Slices Veggie Lover’s® Large","identifier":330,"index":25,"lat":38,"long":14}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Backyard BBQ Chicken Small","identifier":140,"index":15,"lat":20,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Backyard BBQ Chicken Medium","identifier":220,"index":20,"lat":31,"long":10}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Backyard BBQ Chicken Large","identifier":300,"index":30,"lat":40,"long":14}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Beyond Meat® Pepperoni Medium","identifier":200,"index":15,"lat":26,"long":9}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Beyond Meat® Pepperoni Large","identifier":280,"index":20,"lat":35,"long":12}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices  Buffalo Chicken Small","identifier":130,"index":10,"lat":19,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices  Buffalo Chicken Medium","identifier":200,"index":20,"lat":28,"long":9}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices  Buffalo Chicken Large","identifier":270,"index":30,"lat":37,"long":13}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Cheese Small","identifier":130,"index":10,"lat":17,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Cheese Medium","identifier":210,"index":20,"lat":26,"long":10}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Cheese Large","identifier":290,"index":30,"lat":34,"long":13}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Chicken Bacon Parmesan Small","identifier":150,"index":15,"lat":16,"long":7}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Chicken Bacon Parmesan Medium","identifier":230,"index":25,"lat":25,"long":11}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Chicken Bacon Parmesan Large","identifier":310,"index":35,"lat":33,"long":16}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Hawaiian Chicken Small","identifier":130,"index":10,"lat":17,"long":7}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Hawaiian Chicken Medium","identifier":210,"index":20,"lat":27,"long":10}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Hawaiian Chicken Large","identifier":280,"index":30,"lat":36,"long":15}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Meat Lover’s® Small","identifier":180,"index":20,"lat":17,"long":7}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Meat Lover’s® Medium","identifier":290,"index":30,"lat":26,"long":12}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Meat Lover’s® Large","identifier":390,"index":45,"lat":34,"long":17}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Small","identifier":130,"index":10,"lat":16,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Medium","identifier":220,"index":20,"lat":25,"long":9}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Large","identifier":300,"index":30,"lat":34,"long":13}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Lover’s® Small","identifier":160,"index":20,"lat":17,"long":7}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Lover’s® Medium","identifier":270,"index":35,"lat":26,"long":12}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Pepperoni Lover’s® Large","identifier":370,"index":50,"lat":35,"long":17}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Supreme Small","identifier":150,"index":15,"lat":17,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Supreme Medium","identifier":240,"index":25,"lat":26,"long":10}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Supreme Large","identifier":320,"index":35,"lat":35,"long":14}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Ultimate Cheese Lover’s® Small","identifier":150,"index":15,"lat":16,"long":6}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Ultimate Cheese Lover’s® Medium","identifier":230,"index":25,"lat":25,"long":11}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Ultimate Cheese Lover’s® Large","identifier":310,"index":35,"lat":33,"long":15}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Veggie Lover’s® Small","identifier":120,"index":10,"lat":17,"long":5}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Veggie Lover’s® Medium","identifier":200,"index":15,"lat":27,"long":8}
+{"dsn":"Pizza Hut","oem":"Hand Tossed Slices Veggie Lover’s® Large","identifier":260,"index":20,"lat":36,"long":11}
