@@ -92,7 +92,7 @@ RUN pip install nest_asyncio
 RUN pip install joblib
 RUN pip install asyncio
 
-############################################################### Clone the Raspberrypi repo and Install TML Binaries
+############################################################### Clone the SDPK repo and Install TML Binaries
 
 ARG CACHEBUST=1
 
@@ -268,23 +268,23 @@ RUN git clone --depth 1 https://github.com/126530211-myseneca/SDPK.git
 
 RUN chmod -R +x SDPK
 
-RUN cp -rf raspberrypi/viper-env-file/viper.env Viper-produce/viper.env
-RUN cp -rf raspberrypi/viper-env-file/viper.env Viper-preprocess/viper.env
-RUN cp -rf raspberrypi/viper-env-file/viper.env Viper-preprocess2/viper.env
+RUN cp -rf SDPK/viper-env-file/viper.env Viper-produce/viper.env
+RUN cp -rf SDPK/viper-env-file/viper.env Viper-preprocess/viper.env
+RUN cp -rf SDPK/viper-env-file/viper.env Viper-preprocess2/viper.env
 
-RUN cp -rf raspberrypi/viper-env-file/viper.env Viperviz/viper.env
+RUN cp -rf SDPK/viper-env-file/viper.env Viperviz/viper.env
 
 RUN echo "Copy the IotSolution Scripts"
 
 #RUN mkdir IotSolution
-RUN cp -rf raspberrypi/iotsolution-scripts-data/* IotSolution/
+RUN cp -rf SDPK/iotsolution-scripts-data/* IotSolution/
 
 RUN echo "PIP Install TML core packages"
 RUN pip install maadstml
 
-RUN cp -rf raspberrypi/tmux-shell-script/tmux-docker.sh tmux/tmux-docker.sh
+RUN cp -rf SDPK/tmux-shell-script/tmux-docker.sh tmux/tmux-docker.sh
 
-RUN cp -rf raspberrypi/iot-dashboard-html/viperviz.zip Viperviz/viperviz.zip
+RUN cp -rf SDPK/iot-dashboard-html/viperviz.zip Viperviz/viperviz.zip
 RUN chmod -R +x IotSolution
 RUN chmod -R +x Viperviz
 RUN chmod -R +x tmux
@@ -294,6 +294,6 @@ RUN unzip viperviz.zip
 
 WORKDIR /
 
-RUN rm -rf raspberrypi
+RUN rm -rf SDPK
 
 ENTRYPOINT ["/bin/bash","-c","while true; do sleep 1; done | ./tmux/tmux-docker.sh"]
